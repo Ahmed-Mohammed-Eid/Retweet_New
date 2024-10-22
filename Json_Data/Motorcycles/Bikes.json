@@ -1,0 +1,216 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "اس واي ام" ,
+                "labelEn" : "Sym"
+            },
+            {
+                "labelAr" : "إم في أجوستا" ,
+                "labelEn" : "mv agusta"
+            },
+            {
+                "labelAr" : "إنديان" ,
+                "labelEn" : "indian"
+            },
+            {
+                "labelAr" : "ابريليا" ,
+                "labelEn" : "aprilia"
+            },
+            {
+                "labelAr" : "الدكن" ,
+                "labelEn" : "diken"
+            },
+            {
+                "labelAr" : "باجاج" ,
+                "labelEn" : "bajaj"
+            },
+            {
+                "labelAr" : "باندا" ,
+                "labelEn" : "benda"
+            },
+            {
+                "labelAr" : "بوجي" ,
+                "labelEn" : "buggy"
+            },
+            {
+                "labelAr" : "بولاريس" ,
+                "labelEn" : "polaris"
+            },
+            {
+                "labelAr" : "بي إم دبليو" ,
+                "labelEn" : "bmw"
+            },
+            {
+                "labelAr" : "بياجيو" ,
+                "labelEn" : "piaggio"
+            },
+            {
+                "labelAr" : "بينيلي" ,
+                "labelEn" : "benelli"
+            },
+            {
+                "labelAr" : "تايجر" ,
+                "labelEn" : "tiger"
+            },
+            {
+                "labelAr" : "تريمف" ,
+                "labelEn" : "triumph"
+            },
+            {
+                "labelAr" : "تي في اس" ,
+                "labelEn" : "tvs"
+            },
+            {
+                "labelAr" : "جوني باغ" ,
+                "labelEn" : "johny pag"
+            },
+            {
+                "labelAr" : "جيانشي" ,
+                "labelEn" : "jianshe"
+            },
+            {
+                "labelAr" : "دايليم" ,
+                "labelEn" : "daelim"
+            },
+            {
+                "labelAr" : "دايونغ" ,
+                "labelEn" : "dayang"
+            },
+            {
+                "labelAr" : "دوكاتي" ,
+                "labelEn" : "ducati"
+            },
+            {
+                "labelAr" : "رويال انفيلد" ,
+                "labelEn" : "royal enfield"
+            },
+            {
+                "labelAr" : "زونتس" ,
+                "labelEn" : "zontes"
+            },
+            {
+                "labelAr" : "سانيا" ,
+                "labelEn" : "sanya"
+            },
+            {
+                "labelAr" : "سوزوكي" ,
+                "labelEn" : "suzuki"
+            },
+            {
+                "labelAr" : "سي اف موتو" ,
+                "labelEn" : "cfmoto"
+            },
+            {
+                "labelAr" : "شارماكس" ,
+                "labelEn" : "sharmax"
+            },
+            {
+                "labelAr" : "فيسبا" ,
+                "labelEn" : "vespa"
+            },
+            {
+                "labelAr" : "فيكتوري" ,
+                "labelEn" : "victory"
+            },
+            {
+                "labelAr" : "كامكو" ,
+                "labelEn" : "kymco"
+            },
+            {
+                "labelAr" : "كان ام" ,
+                "labelEn" : "can-am"
+            },
+            {
+                "labelAr" : "كاواساكي" ,
+                "labelEn" : "kawasaki"
+            },
+            {
+                "labelAr" : "كاي تي ام" ,
+                "labelEn" : "ktm"
+            },
+            {
+                "labelAr" : "كي واي" ,
+                "labelEn" : "keeway"
+            },
+            {
+                "labelAr" : "موتو جوزي" ,
+                "labelEn" : "moto guzzi"
+            },
+            {
+                "labelAr" : "ناما" ,
+                "labelEn" : "nami"
+            },
+            {
+                "labelAr" : "هارلي ديفيدسون" ,
+                "labelEn" : "harley davidson"
+            },
+            {
+                "labelAr" : "هاوجن" ,
+                "labelEn" : "haojin"
+            },
+            {
+                "labelAr" : "هايوسنج" ,
+                "labelEn" : "hyosung"
+            },
+            {
+                "labelAr" : "هوندا" ,
+                "labelEn" : "honda"
+            },
+            {
+                "labelAr" : "هيرو" ,
+                "labelEn" : "hero"
+            },
+            {
+                "labelAr" : "واي سي ار موتور" ,
+                "labelEn" : "ycrmotor"
+            },
+            {
+                "labelAr" : "ياماها" ,
+                "labelEn" : "yamaha"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفئة" ,
+        "labelEn" : "Category" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "سنة الصنع" ,
+        "labelEn" : "year" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الكيلومترات" ,
+        "labelEn" : "Kilometers" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "سعة المحرك" ,
+        "labelEn" : "Engine Capacity" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

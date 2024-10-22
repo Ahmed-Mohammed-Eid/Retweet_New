@@ -1,0 +1,297 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أسكيمو" ,
+                "labelEn" : "askemo"
+            },
+            {
+                "labelAr" : "أنكو" ,
+                "labelEn" : "anko"
+            },
+            {
+                "labelAr" : "اكسيد" ,
+                "labelEn" : "exeed"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "الحافظ" ,
+                "labelEn" : "alhafidh"
+            },
+            {
+                "labelAr" : "الكترا" ,
+                "labelEn" : "electra"
+            },
+            {
+                "labelAr" : "الكترولوكس" ,
+                "labelEn" : "electrolux"
+            },
+            {
+                "labelAr" : "امجوي باور" ,
+                "labelEn" : "emjoi power"
+            },
+            {
+                "labelAr" : "انفنتور" ,
+                "labelEn" : "inventor"
+            },
+            {
+                "labelAr" : "بارك سايد" ,
+                "labelEn" : "parkside"
+            },
+            {
+                "labelAr" : "باناسونيك" ,
+                "labelEn" : "panasonic"
+            },
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "besphore"
+            },
+            {
+                "labelAr" : "بلاك اند ديكر" ,
+                "labelEn" : "black & decker"
+            },
+            {
+                "labelAr" : "بلوماتيك" ,
+                "labelEn" : "blumatic"
+            },
+            {
+                "labelAr" : "بيسل" ,
+                "labelEn" : "bissell"
+            },
+            {
+                "labelAr" : "تشيجو" ,
+                "labelEn" : "chigo"
+            },
+            {
+                "labelAr" : "تكماز" ,
+                "labelEn" : "tekamaz"
+            },
+            {
+                "labelAr" : "تكنو" ,
+                "labelEn" : "techno"
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba"
+            },
+            {
+                "labelAr" : "تيربو اير" ,
+                "labelEn" : "turbo air"
+            },
+            {
+                "labelAr" : "ثومسون" ,
+                "labelEn" : "thomson"
+            },
+            {
+                "labelAr" : "جراند" ,
+                "labelEn" : "grand"
+            },
+            {
+                "labelAr" : "جوبلن" ,
+                "labelEn" : "goblin"
+            },
+            {
+                "labelAr" : "جولد سكاي" ,
+                "labelEn" : "goldsky"
+            },
+            {
+                "labelAr" : "جينرال إليكتريك" ,
+                "labelEn" : "general electric"
+            },
+            {
+                "labelAr" : "دايو" ,
+                "labelEn" : "daewoo"
+            },
+            {
+                "labelAr" : "روبوكلين" ,
+                "labelEn" : "roboclean"
+            },
+            {
+                "labelAr" : "روى" ,
+                "labelEn" : "rowa"
+            },
+            {
+                "labelAr" : "زوجور" ,
+                "labelEn" : "zogor"
+            },
+            {
+                "labelAr" : "ساتشي" ,
+                "labelEn" : "saachi"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "samix"
+            },
+            {
+                "labelAr" : "سانيو" ,
+                "labelEn" : "sanyo"
+            },
+            {
+                "labelAr" : "سايونا" ,
+                "labelEn" : "sayona"
+            },
+            {
+                "labelAr" : "ستار جولد" ,
+                "labelEn" : "stargold"
+            },
+            {
+                "labelAr" : "ستار هوم" ,
+                "labelEn" : "star home"
+            },
+            {
+                "labelAr" : "سلفر لاين" ,
+                "labelEn" : "silverline"
+            },
+            {
+                "labelAr" : "سونا" ,
+                "labelEn" : "sona"
+            },
+            {
+                "labelAr" : "سوناشي" ,
+                "labelEn" : "sonashi"
+            },
+            {
+                "labelAr" : "سيزلر" ,
+                "labelEn" : "sizzler"
+            },
+            {
+                "labelAr" : "سيفتي ماكس" ,
+                "labelEn" : "safety max"
+            },
+            {
+                "labelAr" : "سيلفركريست" ,
+                "labelEn" : "silvercrest"
+            },
+            {
+                "labelAr" : "شارب" ,
+                "labelEn" : "sharp"
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal"
+            },
+            {
+                "labelAr" : "فاكس" ,
+                "labelEn" : "vax"
+            },
+            {
+                "labelAr" : "فيستل" ,
+                "labelEn" : "vestel"
+            },
+            {
+                "labelAr" : "فيليبس" ,
+                "labelEn" : "philips"
+            },
+            {
+                "labelAr" : "قطع غيار" ,
+                "labelEn" : "replacement parts"
+            },
+            {
+                "labelAr" : "كارشر" ,
+                "labelEn" : "karcher"
+            },
+            {
+                "labelAr" : "كراون" ,
+                "labelEn" : "crown"
+            },
+            {
+                "labelAr" : "كرفت" ,
+                "labelEn" : "crafft"
+            },
+            {
+                "labelAr" : "كوركماز" ,
+                "labelEn" : "korkmaz"
+            },
+            {
+                "labelAr" : "كونتي" ,
+                "labelEn" : "conti"
+            },
+            {
+                "labelAr" : "كويغ" ,
+                "labelEn" : "quigg"
+            },
+            {
+                "labelAr" : "كيربي" ,
+                "labelEn" : "kirpy"
+            },
+            {
+                "labelAr" : "كينوود" ,
+                "labelEn" : "kenwood"
+            },
+            {
+                "labelAr" : "مسترال" ,
+                "labelEn" : "mistral"
+            },
+            {
+                "labelAr" : "ملتو باور" ,
+                "labelEn" : "melto power"
+            },
+            {
+                "labelAr" : "ميديا" ,
+                "labelEn" : "midea"
+            },
+            {
+                "labelAr" : "ميلي" ,
+                "labelEn" : "miele"
+            },
+            {
+                "labelAr" : "ناشونال إليكتريك" ,
+                "labelEn" : "national electric"
+            },
+            {
+                "labelAr" : "نيوتن" ,
+                "labelEn" : "newton"
+            },
+            {
+                "labelAr" : "هوفر" ,
+                "labelEn" : "hoover"
+            },
+            {
+                "labelAr" : "هوم إليكتريك" ,
+                "labelEn" : "home electric"
+            },
+            {
+                "labelAr" : "هيتاشي" ,
+                "labelEn" : "hitachi"
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

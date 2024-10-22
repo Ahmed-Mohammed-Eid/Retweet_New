@@ -1,0 +1,410 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "A-تيك" ,
+                "labelEn" : "a-tec"
+            },
+            {
+                "labelAr" : "DLC" ,
+                "labelEn" : "DLC"
+            },
+            {
+                "labelAr" : "G هانز" ,
+                "labelEn" : "g hanz"
+            },
+            {
+                "labelAr" : "I-لايك" ,
+                "labelEn" : "i-like"
+            },
+            {
+                "labelAr" : "MEC" ,
+                "labelEn" : "MEC"
+            },
+            {
+                "labelAr" : "TCL" ,
+                "labelEn" : "TCL"
+            },
+            {
+                "labelAr" : "V تيك" ,
+                "labelEn" : "vtech"
+            },
+            {
+                "labelAr" : "أزارا" ,
+                "labelEn" : "azara"
+            },
+            {
+                "labelAr" : "أسكيمو" ,
+                "labelEn" : "askemo"
+            },
+            {
+                "labelAr" : "أكاي" ,
+                "labelEn" : "akai"
+            },
+            {
+                "labelAr" : "أيكون" ,
+                "labelEn" : "ikon"
+            },
+            {
+                "labelAr" : "افترون" ,
+                "labelEn" : "aftron"
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "الحافظ" ,
+                "labelEn" : "alhafidh"
+            },
+            {
+                "labelAr" : "اوبن ستار" ,
+                "labelEn" : "openstar"
+            },
+            {
+                "labelAr" : "اوركا" ,
+                "labelEn" : "orca"
+            },
+            {
+                "labelAr" : "اي فيو" ,
+                "labelEn" : "i-view"
+            },
+            {
+                "labelAr" : "ايفولي" ,
+                "labelEn" : "evvoli"
+            },
+            {
+                "labelAr" : "ايوا" ,
+                "labelEn" : "aiwa"
+            },
+            {
+                "labelAr" : "باناسونيك" ,
+                "labelEn" : "panasonic"
+            },
+            {
+                "labelAr" : "باور سات" ,
+                "labelEn" : "power sat"
+            },
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "besphore"
+            },
+            {
+                "labelAr" : "بيكو" ,
+                "labelEn" : "beko"
+            },
+            {
+                "labelAr" : "بينكون" ,
+                "labelEn" : "benkon"
+            },
+            {
+                "labelAr" : "تايجر" ,
+                "labelEn" : "tiger"
+            },
+            {
+                "labelAr" : "تكنوسات" ,
+                "labelEn" : "technosat"
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba"
+            },
+            {
+                "labelAr" : "تي ال سي" ,
+                "labelEn" : "tcl"
+            },
+            {
+                "labelAr" : "ثومسون" ,
+                "labelEn" : "thomson"
+            },
+            {
+                "labelAr" : "جبسون" ,
+                "labelEn" : "gibson"
+            },
+            {
+                "labelAr" : "جرين هوم" ,
+                "labelEn" : "green home"
+            },
+            {
+                "labelAr" : "جنرال" ,
+                "labelEn" : "general"
+            },
+            {
+                "labelAr" : "جنرال ديلوكس" ,
+                "labelEn" : "general deluxe"
+            },
+            {
+                "labelAr" : "جنرال فيو" ,
+                "labelEn" : "general view"
+            },
+            {
+                "labelAr" : "جنرال لايف" ,
+                "labelEn" : "general life"
+            },
+            {
+                "labelAr" : "جورينيه" ,
+                "labelEn" : "gorenje"
+            },
+            {
+                "labelAr" : "جولد ستار" ,
+                "labelEn" : "goldstar"
+            },
+            {
+                "labelAr" : "جولد سكاي" ,
+                "labelEn" : "goldsky"
+            },
+            {
+                "labelAr" : "جي جارد" ,
+                "labelEn" : "g-guard"
+            },
+            {
+                "labelAr" : "جيه في سي" ,
+                "labelEn" : "jvc"
+            },
+            {
+                "labelAr" : "دايو" ,
+                "labelEn" : "daewoo"
+            },
+            {
+                "labelAr" : "روى" ,
+                "labelEn" : "rowa"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "samix"
+            },
+            {
+                "labelAr" : "سانيو" ,
+                "labelEn" : "sanyo"
+            },
+            {
+                "labelAr" : "ستار اكس" ,
+                "labelEn" : "star-x"
+            },
+            {
+                "labelAr" : "ستار تراك" ,
+                "labelEn" : "star track"
+            },
+            {
+                "labelAr" : "ستار جولد" ,
+                "labelEn" : "stargold"
+            },
+            {
+                "labelAr" : "ستار سات" ,
+                "labelEn" : "starsat"
+            },
+            {
+                "labelAr" : "ستار لايف" ,
+                "labelEn" : "starlife"
+            },
+            {
+                "labelAr" : "سكاي وورث" ,
+                "labelEn" : "skyworth"
+            },
+            {
+                "labelAr" : "سونا" ,
+                "labelEn" : "sona"
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony"
+            },
+            {
+                "labelAr" : "سيمور" ,
+                "labelEn" : "cemor"
+            },
+            {
+                "labelAr" : "شارب" ,
+                "labelEn" : "sharp"
+            },
+            {
+                "labelAr" : "شاومي" ,
+                "labelEn" : "xiaomi"
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal"
+            },
+            {
+                "labelAr" : "فوناي" ,
+                "labelEn" : "funai"
+            },
+            {
+                "labelAr" : "فيزيو" ,
+                "labelEn" : "vizio"
+            },
+            {
+                "labelAr" : "فيستل" ,
+                "labelEn" : "vestel"
+            },
+            {
+                "labelAr" : "فيليبس" ,
+                "labelEn" : "philips"
+            },
+            {
+                "labelAr" : "كرفت" ,
+                "labelEn" : "crafft"
+            },
+            {
+                "labelAr" : "كونتي" ,
+                "labelEn" : "conti"
+            },
+            {
+                "labelAr" : "كوندور" ,
+                "labelEn" : "condor"
+            },
+            {
+                "labelAr" : "كونكا" ,
+                "labelEn" : "konka"
+            },
+            {
+                "labelAr" : "ماجيك" ,
+                "labelEn" : "magic"
+            },
+            {
+                "labelAr" : "ميتسوبيشي" ,
+                "labelEn" : "mitsubishi"
+            },
+            {
+                "labelAr" : "ميديا ستارز" ,
+                "labelEn" : "media stars"
+            },
+            {
+                "labelAr" : "ميسترال" ,
+                "labelEn" : "mistral"
+            },
+            {
+                "labelAr" : "ناشونال إليكتريك" ,
+                "labelEn" : "national electric"
+            },
+            {
+                "labelAr" : "ناشونال جولد" ,
+                "labelEn" : "national gold"
+            },
+            {
+                "labelAr" : "ناشونال دريم" ,
+                "labelEn" : "national dream"
+            },
+            {
+                "labelAr" : "ناشونال سونيك" ,
+                "labelEn" : "national sonic"
+            },
+            {
+                "labelAr" : "نيكاي" ,
+                "labelEn" : "nikai"
+            },
+            {
+                "labelAr" : "هاير" ,
+                "labelEn" : "haier"
+            },
+            {
+                "labelAr" : "هايسنس" ,
+                "labelEn" : "hisense"
+            },
+            {
+                "labelAr" : "هنت كي" ,
+                "labelEn" : "huntkey"
+            },
+            {
+                "labelAr" : "هونداي" ,
+                "labelEn" : "hyundai"
+            },
+            {
+                "labelAr" : "هيتاشي" ,
+                "labelEn" : "hitachi"
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa"
+            },
+            {
+                "labelAr" : "يونيون إير" ,
+                "labelEn" : "unionaire"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "LCD" ,
+                "labelEn" : "LCD"
+            },
+            {
+                "labelAr" : "LED" ,
+                "labelEn" : "LED"
+            },
+            {
+                "labelAr" : "OLED" ,
+                "labelEn" : "OLED"
+            },
+            {
+                "labelAr" : "QLED" ,
+                "labelEn" : "QLED"
+            },
+            {
+                "labelAr" : "سمارت" ,
+                "labelEn" : "smart"
+            },
+            {
+                "labelAr" : "بلازما" ,
+                "labelEn" : "plazma"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "حجم الشاشة" ,
+        "labelEn" : "screen size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

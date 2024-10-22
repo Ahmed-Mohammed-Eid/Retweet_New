@@ -1,0 +1,64 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بطاريات" ,
+                "labelEn" : "Batteries" 
+            },
+            {
+                "labelAr" : "قطع الهيكل" ,
+                "labelEn" : "Chassis parts" 
+            },
+            {
+                "labelAr" : "قطع تعديل" ,
+                "labelEn" : "Modified parts" 
+            },
+            {
+                "labelAr" : "قطع ميكانيك" ,
+                "labelEn" : "Mechanical parts" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفرع" ,
+        "labelEn" : "Branch" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "Yes" 
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "No" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "New" 
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "Used" 
+            }
+        ]
+    }
+]

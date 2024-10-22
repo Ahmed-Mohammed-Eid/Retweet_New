@@ -1,0 +1,218 @@
+.ContentContainer {
+    max-width: 424px;
+    margin: 5rem auto;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    &__Buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        &__Button {
+            background-color: transparent;
+            color: rgba(119, 135, 143, 1);
+            flex: 1;
+            transition: all 0.15s ease-in-out;
+            padding: 1.2rem 1rem;
+
+            &__SignIn {
+                border-bottom: 1px solid rgba(228, 231, 233, 1);
+                font-size: 1.2rem;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.3s ease-in-out;
+
+                &:hover {
+                    background-color: #e0e0e0;
+                }
+            }
+
+            &__SignUp {
+                border-bottom: 1px solid rgba(228, 231, 233, 1);
+                font-size: 1.2rem;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.3s ease-in-out;
+
+                &:hover {
+                    background-color: #e0e0e0;
+                }
+            }
+
+            &__Active {
+                border-bottom: 3px solid rgba(250, 130, 50, 1);
+                color: rgba(0, 0, 0, 1);
+            }
+
+        }
+    }
+
+    &__FormContainer {
+        border-radius: 0.5rem;
+        padding: 1rem;
+
+        &__Form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+            width: 100%;
+            height: 100%;
+            box-sizing: border-box;
+
+            .InputContainer {
+                width: 100%;
+                margin: 0.5rem 0;
+
+                input {
+                    width: 100%;
+                    padding: 0.5rem 1rem;
+                    border: 1px solid #e0e0e0;
+                    font-size: 1.2rem;
+                    font-family: inherit;
+                    transition: all 0.3s ease-in-out;
+
+                    &:focus {
+                        outline: none;
+                        border: 1px solid #000;
+                    }
+                }
+
+                label {
+                    font-size: 16px;
+                    color: #000;
+                    line-height: 20px;
+                }
+
+                .SameLineBetween {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                }
+
+                &__ForgotPassword {
+                    display: flex;
+                    justify-content: flex-end;
+                    align-items: center;
+                    width: 100%;
+                    margin: 0.5rem 0;
+                    color: rgba(0, 172, 238, 1);
+                    font-weight: 500
+                }
+            }
+
+            .TermsContainer{
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                margin: 0.5rem 0;
+
+                input {
+                    width: 1.5rem;
+                    height: 1.5rem;
+                    margin-right: 0.5rem;
+                }
+
+                label {
+                    font-size: 1.2rem;
+                    color: rgba(119, 135, 143, 1);
+                    line-height: 20px;
+
+                    a{
+                        color: rgba(0, 172, 238, 1);
+                        transition: all 0.15s ease-in-out;
+
+                        &:hover{
+                            color: rgba(0, 172, 238, 1)
+                        }
+                    }
+                }
+            }
+
+            &__Button {
+                text-transform: uppercase;
+                background-color: rgba(245, 169, 47, 1);
+                border: 1px solid #e0e0e0;
+                color: #ffffff;
+                width: 100%;
+                font-size: 1.2rem;
+                font-weight: 600;
+                padding: 0.5rem 1rem;
+                margin: 0.5rem 0;
+                cursor: pointer;
+                transition: all 0.3s ease-in-out;
+
+                &:hover {
+                    background-color: rgba(250, 130, 50, 1);
+                }
+
+                &:active {
+                    transform: scale(0.98);
+                    background-color: rgba(250, 130, 50, 1);
+                }
+            }
+        }
+
+
+        &__Or {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 1rem 0;
+            padding: 0 1rem;
+            font-size: 1.2rem;
+            color: rgba(119, 135, 143, 1);
+
+            &__Line {
+                width: 100%;
+                height: 1px;
+                background-color: #e0e0e0;
+            }
+
+            &__Text {
+                padding: 0 1rem;
+            }
+        }
+
+
+        &__SocialMedia {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+            padding: 0 1rem 2rem;
+
+            &__Button {
+                position: relative;
+                background-color: transparent;
+                border: 1px solid #e0e0e0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 1rem;
+                width: 100%;
+                padding: 1rem;
+                cursor: pointer;
+                transition: all 0.3s ease-in-out;
+
+                &:hover {
+                    background-color: rgb(241, 241, 241);
+                }
+
+                &:active {
+                    transform: scale(0.98);
+                }
+
+                img {
+                    position: absolute;
+                    left: 1rem;
+                    width: 1.5rem;
+                }
+            }
+        }
+    }
+
+}

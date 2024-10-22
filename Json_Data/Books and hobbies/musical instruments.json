@@ -1,0 +1,63 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جيتار و عود" ,
+                "labelEn" : "guitars & oud"
+            },
+            {
+                "labelAr" : "آلات النفخ" ,
+                "labelEn" : "wind instruments"
+            },
+            {
+                "labelAr" : "بيانو  و اورج" ,
+                "labelEn" : "piano & keyboards"
+            },
+            {
+                "labelAr" : "الطبول وآلات الايقاع" ,
+                "labelEn" : "drums & percussions"
+            },
+            {
+                "labelAr" : "الكمان وآلات أخرى" ,
+                "labelEn" : "violins & other strings"
+            },
+            {
+                "labelAr" : "اكسسوارات" ,
+                "labelEn" : "accessories"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

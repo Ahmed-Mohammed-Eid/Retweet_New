@@ -1,0 +1,80 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "مدرس رياضيات" ,
+                "labelEn" : "math teacher" 
+            },
+            {
+                "labelAr" : "مدرس فيزياء" ,
+                "labelEn" : "physics teacher" 
+            },
+            {
+                "labelAr" : "مدرس كيمياء" ,
+                "labelEn" : "chemistry teacher" 
+            },
+            {
+                "labelAr" : "مدرس إنجليزي" ,
+                "labelEn" : "english teacher" 
+            },
+            {
+                "labelAr" : "مدرس عربي" ,
+                "labelEn" : "arabic teacher" 
+            },
+            {
+                "labelAr" : "مدرس فرنسي" ,
+                "labelEn" : "french teacher" 
+            },
+            {
+                "labelAr" : "مدرس روضة" ,
+                "labelEn" : "kindergarden teacher" 
+            },
+            {
+                "labelAr" : "مدرس ابتدائي" ,
+                "labelEn" : "elementary teacher" 
+            },
+            {
+                "labelAr" : "مدرس ثانوي" ,
+                "labelEn" : "secendory teacher" 
+            },
+            {
+                "labelAr" : "مدرس تربية إسلامية" ,
+                "labelEn" : "religion teacher" 
+            },
+            {
+                "labelAr" : "مدرس حاسوب" ,
+                "labelEn" : "computer teacher" 
+            },
+            {
+                "labelAr" : "SAT - IGCSE مدرس " ,
+                "labelEn" : "sat - igcse teacher" 
+            },
+            {
+                "labelAr" : "مدرس تربية خاصة" ,
+                "labelEn" : "special education teacher" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الموقع" ,
+        "labelEn" : "location" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "عن بعد" ,
+                "labelEn" : "online" 
+            },
+            {
+                "labelAr" : "في الموقع" ,
+                "labelEn" : "in site" 
+            }
+        ]
+    }
+]

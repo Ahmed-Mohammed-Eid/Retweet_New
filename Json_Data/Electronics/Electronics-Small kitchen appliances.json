@@ -1,0 +1,89 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "محضرات طعام" ,
+                "labelEn" : "Food preparations" 
+            },
+            {
+                "labelAr" : "غلايات كهربائية" ,
+                "labelEn" : "Electric kettles" 
+            },
+            {
+                "labelAr" : "ماكينات صنع القهوة" ,
+                "labelEn" : "Coffee making machines" 
+            },
+            {
+                "labelAr" : "القلايات الهوائية" ,
+                "labelEn" : "Air fryers" 
+            },
+            {
+                "labelAr" : "شوايات وحماصات" ,
+                "labelEn" : "Grills and toasters" 
+            },
+            {
+                "labelAr" : "خلاطات" ,
+                "labelEn" : "Mixers" 
+            },
+            {
+                "labelAr" : "اجهزة الخفق" ,
+                "labelEn" : "Beating devices" 
+            },
+            {
+                "labelAr" : "اجهزة صنع الوافل" ,
+                "labelEn" : "Waffle makers" 
+            },
+            {
+                "labelAr" : "عصارات" ,
+                "labelEn" : "Juicers" 
+            },
+            {
+                "labelAr" : "الات طبخ كهربائية" ,
+                "labelEn" : "Electric cooking machines" 
+            },
+            {
+                "labelAr" : "مطاحن وفرامات" ,
+                "labelEn" : "Mills and choppers" 
+            },
+            {
+                "labelAr" : "محضرة السندويشات" ,
+                "labelEn" : "Sandwich maker" 
+            },
+            {
+                "labelAr" : "الات صنع البوشار" ,
+                "labelEn" : "Popcorn making machines" 
+            },
+            {
+                "labelAr" : "الات صنع البوظة" ,
+                "labelEn" : "Ice cream making machines" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

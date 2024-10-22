@@ -1,0 +1,27 @@
+.NotificationItem{
+  padding: 20px 30px;
+  border: 1px solid rgba(193, 230, 243, 0.85);
+  border-radius: 5px;
+  height: 100px;
+
+  &__BellAndTitle{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  &__Bell{
+    width: 32px;
+  }
+
+  &__Title{
+    font-weight: 500;
+    font-family: var(--tajwal-font);
+  }
+
+  &__Text{
+    font-size: 14px;
+    color: rgba(#2B2B2B, 1);
+  }
+}

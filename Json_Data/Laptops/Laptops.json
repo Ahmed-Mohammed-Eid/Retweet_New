@@ -1,0 +1,160 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "اليانوير" ,
+                "labelEn" : "alienware"
+            },
+            {
+                "labelAr" : "ابل" ,
+                "labelEn" : "apple"
+            },
+            {
+                "labelAr" : "اتش بي" ,
+                "labelEn" : "hp"
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg"
+            },
+            {
+                "labelAr" : "إم إس آى" ,
+                "labelEn" : "msi"
+            },
+            {
+                "labelAr" : "ايسر" ,
+                "labelEn" : "acer"
+            },
+            {
+                "labelAr" : "ايسوس" ,
+                "labelEn" : "asus"
+            },
+            {
+                "labelAr" : "باكارد بيل" ,
+                "labelEn" : "packard bell"
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba"
+            },
+            {
+                "labelAr" : "جيت واي" ,
+                "labelEn" : "gateway"
+            },
+            {
+                "labelAr" : "ديل" ,
+                "labelEn" : "dell"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "سوني فايو" ,
+                "labelEn" : "sony vaio"
+            },
+            {
+                "labelAr" : "فوجيتسو" ,
+                "labelEn" : "fujitsu"
+            },
+            {
+                "labelAr" : "لينوفو" ,
+                "labelEn" : "lenovo"
+            },
+            {
+                "labelAr" : "مايكروسوفت" ,
+                "labelEn" : "microsoft"
+            },
+            {
+                "labelAr" : "هواوي" ,
+                "labelEn" : "huawei"
+            },
+            {
+                "labelAr" : "تاج تيك" ,
+                "labelEn" : "tagtech"
+            },
+            {
+                "labelAr" : "تجميع" ,
+                "labelEn" : "custom-built"
+            },
+            {
+                "labelAr" : "Zed" ,
+                "labelEn" : "Zed"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "نظام التشغيل" ,
+        "labelEn" : "Operating System" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "ويندوز" ,
+                "labelEn" : "windows"
+            },
+            {
+                "labelAr" : "ماك OS" ,
+                "labelEn" : "mac OS"
+            },
+            {
+                "labelAr" : "لينكس" ,
+                "labelEn" : "linux"
+            },
+            {
+                "labelAr" : "اوبونتو" ,
+                "labelEn" : "Ubuntu"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "حجم الشاشة" ,
+        "labelEn" : "Screen Size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "حجم الذاكرة" ,
+        "labelEn" : "Memory size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

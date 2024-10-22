@@ -1,0 +1,191 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "كاميرات تصوير" ,
+                "labelEn" : "dslr cameras"
+            },
+            {
+                "labelAr" : "عدسات" ,
+                "labelEn" : "lenses"
+            },
+            {
+                "labelAr" : "اكسسوارات ومعدات" ,
+                "labelEn" : "accessories and equipments"
+            },
+            {
+                "labelAr" : "قطع غيار" ,
+                "labelEn" : "replacement parts"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفرع" ,
+        "labelEn" : "Branch" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "ابسون" ,
+                "labelEn" : "epson"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "اوليمبوس" ,
+                "labelEn" : "olympus"
+            },
+            {
+                "labelAr" : "باناسونيك" ,
+                "labelEn" : "panasonic"
+            },
+            {
+                "labelAr" : "جو برو" ,
+                "labelEn" : "go pro"
+            },
+            {
+                "labelAr" : "جي في سي" ,
+                "labelEn" : "jvc"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony"
+            },
+            {
+                "labelAr" : "شاومي" ,
+                "labelEn" : "xiaomi"
+            },
+            {
+                "labelAr" : "فوجي فيلم" ,
+                "labelEn" : "fujifilm"
+            },
+            {
+                "labelAr" : "فيفيتار" ,
+                "labelEn" : "vivitar"
+            },
+            {
+                "labelAr" : "كانون" ,
+                "labelEn" : "canon"
+            },
+            {
+                "labelAr" : "كوداك" ,
+                "labelEn" : "kodak"
+            },
+            {
+                "labelAr" : "نيكون" ,
+                "labelEn" : "nikon"
+            },
+            {
+                "labelAr" : "اخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "عدسات" ,
+        "labelEn" : "lenses" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "كانون" ,
+                "labelEn" : "canon"
+            },
+            {
+                "labelAr" : "نيكون" ,
+                "labelEn" : "nikon"
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony"
+            },
+            {
+                "labelAr" : "ابسون" ,
+                "labelEn" : "epson"
+            },
+            {
+                "labelAr" : "فوجي فيلم" ,
+                "labelEn" : "fujifilm"
+            },
+            {
+                "labelAr" : "كوداك" ,
+                "labelEn" : "kodak"
+            },
+            {
+                "labelAr" : "جو برو" ,
+                "labelEn" : "go pro"
+            },
+            {
+                "labelAr" : "اخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "اكسسوارات ومعدات" ,
+        "labelEn" : "accessories and equipments" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "حقائب كاميرات" ,
+                "labelEn" : "Camera bags"
+            },
+            {
+                "labelAr" : "معدات تنظيف" ,
+                "labelEn" : "Cleaning equipment"
+            },
+            {
+                "labelAr" : "ترايبود" ,
+                "labelEn" : "Tripod"
+            },
+            {
+                "labelAr" : "بطاريات" ,
+                "labelEn" : "Batteries"
+            },
+            {
+                "labelAr" : "كرت الذاكرة" ,
+                "labelEn" : "Memory card"
+            },
+            {
+                "labelAr" : "اخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

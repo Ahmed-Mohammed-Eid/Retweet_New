@@ -1,0 +1,327 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "مدفأة كهربائية" ,
+                "labelEn" : "Electric Fireplace"
+            },
+            {
+                "labelAr" : "مدفأة غاز" ,
+                "labelEn" : "Gas fireplace"
+            },
+            {
+                "labelAr" : "مدفأة كاز" ,
+                "labelEn" : "Kerosene heater"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : ""
+    },
+    {   
+        "labelAr" : "مدفأة كهربائية" ,
+        "labelEn" : "Electric Fireplace" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "besphore" 
+            },
+            {
+                "labelAr" : "بلاك اند ديكر" ,
+                "labelEn" : "black & decker" 
+            },
+            {
+                "labelAr" : "تشيجو" ,
+                "labelEn" : "chigo" 
+            },
+            {
+                "labelAr" : "تكماز" ,
+                "labelEn" : "tekamaz" 
+            },
+            {
+                "labelAr" : "جرين هوم" ,
+                "labelEn" : "green home" 
+            },
+            {
+                "labelAr" : "جولد سكاي" ,
+                "labelEn" : "goldsky" 
+            },
+            {
+                "labelAr" : "جينرال إليكتريك" ,
+                "labelEn" : "general electric" 
+            },
+            {
+                "labelAr" : "ديلونجي" ,
+                "labelEn" : "delonghi" 
+            },
+            {
+                "labelAr" : "رومو انترناشونال" ,
+                "labelEn" : "romo international" 
+            },
+            {
+                "labelAr" : "روى" ,
+                "labelEn" : "rowa" 
+            },
+            {
+                "labelAr" : "ساتشي" ,
+                "labelEn" : "saachi" 
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "samix" 
+            },
+            {
+                "labelAr" : "سانيو" ,
+                "labelEn" : "sanyo" 
+            },
+            {
+                "labelAr" : "سايونا" ,
+                "labelEn" : "sayona" 
+            },
+            {
+                "labelAr" : "ستار جولد" ,
+                "labelEn" : "stargold" 
+            },
+            {
+                "labelAr" : "ستار هوم" ,
+                "labelEn" : "star home" 
+            },
+            {
+                "labelAr" : "سونا" ,
+                "labelEn" : "sona" 
+            },
+            {
+                "labelAr" : "سيزلر" ,
+                "labelEn" : "sizzler" 
+            },
+            {
+                "labelAr" : "سيفتي ماكس" ,
+                "labelEn" : "safety max" 
+            },
+            {
+                "labelAr" : "سيلفركريست" ,
+                "labelEn" : "silvercrest" 
+            },
+            {
+                "labelAr" : "سيمفر" ,
+                "labelEn" : "simfer" 
+            },
+            {
+                "labelAr" : "شامي" ,
+                "labelEn" : "shami" 
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal" 
+            },
+            {
+                "labelAr" : "كومتل" ,
+                "labelEn" : "kumtel" 
+            },
+            {
+                "labelAr" : "كونتي" ,
+                "labelEn" : "conti" 
+            },
+            {
+                "labelAr" : "كينوود" ,
+                "labelEn" : "kenwood" 
+            },
+            {
+                "labelAr" : "لوكسيل" ,
+                "labelEn" : "luxell" 
+            },
+            {
+                "labelAr" : "ماتركس" ,
+                "labelEn" : "matrix" 
+            },
+            {
+                "labelAr" : "مسترال" ,
+                "labelEn" : "mistral" 
+            },
+            {
+                "labelAr" : "ناشونال دريم" ,
+                "labelEn" : "national dream" 
+            },
+            {
+                "labelAr" : "هوم إليكتريك" ,
+                "labelEn" : "home electric" 
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "مدفأة غاز" ,
+        "labelEn" : "Gas fireplace" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "SP Tech" ,
+                "labelEn" : "SP Tech" 
+            },
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "besphore" 
+            },
+            {
+                "labelAr" : "تويوتومي" ,
+                "labelEn" : "toyotomi" 
+            },
+            {
+                "labelAr" : "ديلونجي" ,
+                "labelEn" : "delonghi" 
+            },
+            {
+                "labelAr" : "رومو" ,
+                "labelEn" : "romo" 
+            },
+            {
+                "labelAr" : "رومو انترناشونال" ,
+                "labelEn" : "romo international" 
+            },
+            {
+                "labelAr" : "ساتشي" ,
+                "labelEn" : "saachi" 
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "samix" 
+            },
+            {
+                "labelAr" : "سيزلر" ,
+                "labelEn" : "sizzler" 
+            },
+            {
+                "labelAr" : "شامي" ,
+                "labelEn" : "shami" 
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal" 
+            },
+            {
+                "labelAr" : "ناشونال" ,
+                "labelEn" : "national" 
+            },
+            {
+                "labelAr" : "ناشونال دريم" ,
+                "labelEn" : "national dream" 
+            },
+            {
+                "labelAr" : "ناشونال سونيك" ,
+                "labelEn" : "national sonic" 
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa" 
+            },
+            {
+                "labelAr" : "يونيفرسال" ,
+                "labelEn" : "universal" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "مدفأة كاز" ,
+        "labelEn" : "Kerosene heater" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "الباكا" ,
+                "labelEn" : "Albaca" 
+            },
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "Bisphorus" 
+            },
+            {
+                "labelAr" : "جرين هوم" ,
+                "labelEn" : "Green Home" 
+            },
+            {
+                "labelAr" : "رومو انترناشونال" ,
+                "labelEn" : "Romo International" 
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "Samix" 
+            },
+            {
+                "labelAr" : "سانيو" ,
+                "labelEn" : "San Yu" 
+            },
+            {
+                "labelAr" : "سونا" ,
+                "labelEn" : "Sona" 
+            },
+            {
+                "labelAr" : "شامي" ,
+                "labelEn" : "shami" 
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal" 
+            },
+            {
+                "labelAr" : "فوجيكا" ,
+                "labelEn" : "Fujika" 
+            },
+            {
+                "labelAr" : "كيرونا" ,
+                "labelEn" : "Kiruna" 
+            },
+            {
+                "labelAr" : "ناشونال دريم" ,
+                "labelEn" : "National Dream" 
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "Wansa" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

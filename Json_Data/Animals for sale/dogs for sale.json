@@ -1,0 +1,77 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بيتبول" ,
+                "labelEn" : "pitbull" 
+            },
+            {
+                "labelAr" : "بومرينيان" ,
+                "labelEn" : "pomeranian" 
+            },
+            {
+                "labelAr" : "جولدن" ,
+                "labelEn" : "golden retriever" 
+            },
+            {
+                "labelAr" : "جيرمن" ,
+                "labelEn" : "german shepherd" 
+            },
+            {
+                "labelAr" : "شيتزو" ,
+                "labelEn" : "shih tzus" 
+            },
+            {
+                "labelAr" : "شيواوا" ,
+                "labelEn" : "chihuahua" 
+            },
+            {
+                "labelAr" : "مالتيز" ,
+                "labelEn" : "maltese" 
+            },
+            {
+                "labelAr" : "هاسكي" ,
+                "labelEn" : "husky" 
+            },
+            {
+                "labelAr" : "تشاو تشاو" ,
+                "labelEn" : "chow chow" 
+            },
+            {
+                "labelAr" : "يوركشاير" ,
+                "labelEn" : "yorkshire" 
+            },
+            {
+                "labelAr" : "دوبرمان" ,
+                "labelEn" : "doberman" 
+            },
+            {
+                "labelAr" : "بولدوج" ,
+                "labelEn" : "bulldog" 
+            },
+            {
+                "labelAr" : "بودل" ,
+                "labelEn" : "poodle" 
+            },
+            {
+                "labelAr" : "لولو فوكس" ,
+                "labelEn" : "lolo fox" 
+            },
+            {
+                "labelAr" : "بج" ,
+                "labelEn" : "pug" 
+            },
+            {
+                "labelAr" : "روت وايلر" ,
+                "labelEn" : "rottweiler" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    }
+]

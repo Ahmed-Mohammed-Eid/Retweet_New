@@ -1,0 +1,74 @@
+[
+    {
+        "labelAr" : "مزود الخدمة" ,
+        "labelEn" : "service provider" ,
+        "Values" : [
+            {
+                "labelAr": "زين",
+                "labelEn": "Zain"
+            },
+            {
+                "labelAr": "أوريدو",
+                "labelEn": "Ooredoo"
+            },
+            {
+                "labelAr": "فيفا",
+                "labelEn": "Viva"
+            },
+            {
+                "labelAr": "ستيكر",
+                "labelEn": "Stc"
+            },
+            {
+                "labelAr": "موبايلي",
+                "labelEn": "Mobily"
+            },
+            {
+                "labelAr": "ليبارا",
+                "labelEn": "Lebara"
+            },
+            {
+                "labelAr": "فيرجن",
+                "labelEn": "Virgin"
+            },
+            {
+                "labelAr": "دو",
+                "labelEn": "Du"
+            },
+            {
+                "labelAr": "اورنج",
+                "labelEn": "Orange"
+            },
+            {
+                "labelAr": "فودافون",
+                "labelEn": "Vodafone"
+            },
+            {
+                "labelAr": "اتصالات",
+                "labelEn": "Etisalat"
+            },
+            {
+                "labelAr": "وي",
+                "labelEn": "We"
+            },
+            {
+                "labelAr": "اخرى",
+                "labelEn": "Other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr": "نعم",
+                "labelEn": "Yes"
+            },
+            {
+                "labelAr": "لا",
+                "labelEn": "No"
+            }
+        ]
+    }
+]

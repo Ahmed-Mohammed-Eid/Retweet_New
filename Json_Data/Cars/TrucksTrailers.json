@@ -1,0 +1,256 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "راس تريل" ,
+                "labelEn" : "tractor unit" 
+            },
+            {
+                "labelAr" : "شاسيه" ,
+                "labelEn" : "chassis" 
+            },
+            {
+                "labelAr" : "صندوق" ,
+                "labelEn" : "box" 
+            },
+            {
+                "labelAr" : "قلاب" ,
+                "labelEn" : "tipper" 
+            },
+            {
+                "labelAr" : "تنك" ,
+                "labelEn" : "tank" 
+            },
+            {
+                "labelAr" : "ونش" ,
+                "labelEn" : "tow truck" 
+            },
+            {
+                "labelAr" : "براد" ,
+                "labelEn" : "refrigerator" 
+            },
+            {
+                "labelAr" : "سطحة" ,
+                "labelEn" : "flatbed" 
+            },
+            {
+                "labelAr" : "خلاطة خرسانة" ,
+                "labelEn" : "concrete mixer" 
+            },
+            {
+                "labelAr" : "رافعة الهوك" ,
+                "labelEn" : "hook lift" 
+            },
+            {
+                "labelAr" : "ناقلة سيارات" ,
+                "labelEn" : "auto transporter" 
+            },
+            {
+                "labelAr" : "كرفان" ,
+                "labelEn" : "caravan" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الموديل" ,
+        "labelEn" : "model" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أوبل" ,
+                "labelEn" : "opel"
+            },
+            {
+                "labelAr" : "إيفيكو" ,
+                "labelEn" : "iveco"
+            },
+            {
+                "labelAr" : "ام جي" ,
+                "labelEn" : "mg"
+            },
+            {
+                "labelAr" : "ايسوزو" ,
+                "labelEn" : "isuzu"
+            },
+            {
+                "labelAr" : "بي ام دبليو" ,
+                "labelEn" : "bmw"
+            },
+            {
+                "labelAr" : "بي واي دي" ,
+                "labelEn" : "byd"
+            },
+            {
+                "labelAr" : "بيجو" ,
+                "labelEn" : "peugeot"
+            },
+            {
+                "labelAr" : "تاتا" ,
+                "labelEn" : "tata"
+            },
+            {
+                "labelAr" : "تويوتا" ,
+                "labelEn" : "toyota"
+            },
+            {
+                "labelAr" : "جاي ام سي" ,
+                "labelEn" : "jmc"
+            },
+            {
+                "labelAr" : "جريت وول" ,
+                "labelEn" : "great wall"
+            },
+            {
+                "labelAr" : "جي إم سي" ,
+                "labelEn" : "gmc"
+            },
+            {
+                "labelAr" : "جيلي" ,
+                "labelEn" : "geely"
+            },
+            {
+                "labelAr" : "جيه إيه سي" ,
+                "labelEn" : "jac"
+            },
+            {
+                "labelAr" : "دايهاتسو" ,
+                "labelEn" : "daihatsu"
+            },
+            {
+                "labelAr" : "دي إف جي" ,
+                "labelEn" : "dfg"
+            },
+            {
+                "labelAr" : "رينو" ,
+                "labelEn" : "renault"
+            },
+            {
+                "labelAr" : "سانغ يونغ" ,
+                "labelEn" : "ssangyong"
+            },
+            {
+                "labelAr" : "ستيروين" ,
+                "labelEn" : "citroen"
+            },
+            {
+                "labelAr" : "سكانيا" ,
+                "labelEn" : "scania"
+            },
+            {
+                "labelAr" : "سكودا" ,
+                "labelEn" : "skoda"
+            },
+            {
+                "labelAr" : "شيري" ,
+                "labelEn" : "chery"
+            },
+            {
+                "labelAr" : "شيفروليه" ,
+                "labelEn" : "chevrolet"
+            },
+            {
+                "labelAr" : "فاو" ,
+                "labelEn" : "faw"
+            },
+            {
+                "labelAr" : "فوتون" ,
+                "labelEn" : "foton"
+            },
+            {
+                "labelAr" : "فورد" ,
+                "labelEn" : "ford"
+            },
+            {
+                "labelAr" : "فولفو" ,
+                "labelEn" : "volvo"
+            },
+            {
+                "labelAr" : "فولكسفاغن" ,
+                "labelEn" : "volkswagen"
+            },
+            {
+                "labelAr" : "فيات" ,
+                "labelEn" : "fiat"
+            },
+            {
+                "labelAr" : "كيا" ,
+                "labelEn" : "kia"
+            },
+            {
+                "labelAr" : "لكزس" ,
+                "labelEn" : "lexus"
+            },
+            {
+                "labelAr" : "ليفان" ,
+                "labelEn" : "lifan"
+            },
+            {
+                "labelAr" : "مازدا" ,
+                "labelEn" : "mazda"
+            },
+            {
+                "labelAr" : "مان" ,
+                "labelEn" : "man"
+            },
+            {
+                "labelAr" : "مرسيدس بنز" ,
+                "labelEn" : "mercedes benz"
+            },
+            {
+                "labelAr" : "ميتسوبيشي" ,
+                "labelEn" : "mitsubishi"
+            },
+            {
+                "labelAr" : "نيسان" ,
+                "labelEn" : "nissan"
+            },
+            {
+                "labelAr" : "هانغتشا" ,
+                "labelEn" : "hangcha"
+            },
+            {
+                "labelAr" : "هوندا" ,
+                "labelEn" : "honda"
+            },
+            {
+                "labelAr" : "هينو" ,
+                "labelEn" : "hino"
+            },
+            {
+                "labelAr" : "هيونداي" ,
+                "labelEn" : "hyundai"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "سنة الصنع" ,
+        "labelEn" : "year" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

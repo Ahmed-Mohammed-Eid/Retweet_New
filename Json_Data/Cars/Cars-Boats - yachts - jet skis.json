@@ -1,0 +1,44 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "قوارب مع محرك" ,
+                "labelEn" : "motorboats" 
+            },
+            {
+                "labelAr" : "جيت سكي" ,
+                "labelEn" : "jet-ski" 
+            },
+            {
+                "labelAr" : "قوارب التجديف" ,
+                "labelEn" : "row/paddle boats" 
+            },
+            {
+                "labelAr" : "المراكب الشراعية" ,
+                "labelEn" : "sailboats" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد",
+                "labelEn" : "new" 
+            },
+            {
+                "labelAr" : "مستعمل",
+                "labelEn" : "used" 
+            }
+        ]
+    }
+]

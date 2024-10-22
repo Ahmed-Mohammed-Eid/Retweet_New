@@ -1,0 +1,36 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أطقم حمامات" ,
+                "labelEn" : "bathroom accessories" 
+            },
+            {
+                "labelAr" : "اكسسوارات" ,
+                "labelEn" : "accessories" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    }
+]

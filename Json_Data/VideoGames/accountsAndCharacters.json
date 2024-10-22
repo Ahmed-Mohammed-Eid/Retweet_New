@@ -1,0 +1,63 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "PS+" ,
+                "labelEn" : "PS+" 
+            },
+            {
+                "labelAr" : "ببج" ,
+                "labelEn" : "PUPG" 
+            },
+            {
+                "labelAr" : "سوشال ميديا" ,
+                "labelEn" : "social media" 
+            },
+            {
+                "labelAr" : "فري فاير" ,
+                "labelEn" : "free fire" 
+            },
+            {
+                "labelAr" : "فورتنايت" ,
+                "labelEn" : "fortnite" 
+            },
+            {
+                "labelAr" : "فيفا" ,
+                "labelEn" : "fifa" 
+            },
+            {
+                "labelAr" : "كلاش اوف كلانس" ,
+                "labelEn" : "clash of clans" 
+            },
+            {
+                "labelAr" : "لودو" ,
+                "labelEn" : "ludo" 
+            },
+            {
+                "labelAr" : "نيتفلكس" ,
+                "labelEn" : "netflix" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    }
+]

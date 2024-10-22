@@ -1,0 +1,585 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "A-تيك" ,
+                "labelEn" : "a-tech"
+            },
+            {
+                "labelAr" : "DLC" ,
+                "labelEn" : "DLC"
+            },
+            {
+                "labelAr" : "KAC" ,
+                "labelEn" : "KAC"
+            },
+            {
+                "labelAr" : "MBO" ,
+                "labelEn" : "MBO"
+            },
+            {
+                "labelAr" : "SP Tech" ,
+                "labelEn" : "SP Tech"
+            },
+            {
+                "labelAr" : "أوكس" ,
+                "labelEn" : "ox"
+            },
+            {
+                "labelAr" : "أولات" ,
+                "labelEn" : "olaat"
+            },
+            {
+                "labelAr" : "اريستون" ,
+                "labelEn" : "areston"
+            },
+            {
+                "labelAr" : "اسكيمو" ,
+                "labelEn" : "askemo"
+            },
+            {
+                "labelAr" : "اكاي" ,
+                "labelEn" : "akai"
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "الحافظ" ,
+                "labelEn" : "alhafidh"
+            },
+            {
+                "labelAr" : "انفنتور" ,
+                "labelEn" : "inventor"
+            },
+            {
+                "labelAr" : "اوشين" ,
+                "labelEn" : "ocean"
+            },
+            {
+                "labelAr" : "ايجنيس" ,
+                "labelEn" : "ignis"
+            },
+            {
+                "labelAr" : "ايس هوم" ,
+                "labelEn" : "ice home"
+            },
+            {
+                "labelAr" : "ايفولي" ,
+                "labelEn" : "evvoli"
+            },
+            {
+                "labelAr" : "بترا" ,
+                "labelEn" : "petra"
+            },
+            {
+                "labelAr" : "برايك" ,
+                "labelEn" : "brayk"
+            },
+            {
+                "labelAr" : "برايم كول" ,
+                "labelEn" : "prime cool"
+            },
+            {
+                "labelAr" : "بسفور" ,
+                "labelEn" : "besphore"
+            },
+            {
+                "labelAr" : "بعلبكي" ,
+                "labelEn" : "baalbki"
+            },
+            {
+                "labelAr" : "بناسونيك" ,
+                "labelEn" : "panasonic"
+            },
+            {
+                "labelAr" : "بوش" ,
+                "labelEn" : "bosch"
+            },
+            {
+                "labelAr" : "بيرل" ,
+                "labelEn" : "pearl"
+            },
+            {
+                "labelAr" : "بيكو" ,
+                "labelEn" : "beko"
+            },
+            {
+                "labelAr" : "بينكون" ,
+                "labelEn" : "benkon"
+            },
+            {
+                "labelAr" : "تروبيكال" ,
+                "labelEn" : "tropical"
+            },
+            {
+                "labelAr" : "توسوت" ,
+                "labelEn" : "tosot"
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba"
+            },
+            {
+                "labelAr" : "تي سي ال" ,
+                "labelEn" : "tcl"
+            },
+            {
+                "labelAr" : "تيتانيوم" ,
+                "labelEn" : "titanium"
+            },
+            {
+                "labelAr" : "ثومسون" ,
+                "labelEn" : "thomson"
+            },
+            {
+                "labelAr" : "جبسون" ,
+                "labelEn" : "gibson"
+            },
+            {
+                "labelAr" : "جراند ستار" ,
+                "labelEn" : "grand star"
+            },
+            {
+                "labelAr" : "جري" ,
+                "labelEn" : "gree"
+            },
+            {
+                "labelAr" : "جرين ويفز" ,
+                "labelEn" : "green waves"
+            },
+            {
+                "labelAr" : "جنرال" ,
+                "labelEn" : "general"
+            },
+            {
+                "labelAr" : "جنرال دريم" ,
+                "labelEn" : "general dream"
+            },
+            {
+                "labelAr" : " جنرال ديلوكس" ,
+                "labelEn" : "general deluxe"
+            },
+            {
+                "labelAr" : "جنرال ماكس" ,
+                "labelEn" : "general max"
+            },
+            {
+                "labelAr" : "جورينيه" ,
+                "labelEn" : "gorenje"
+            },
+            {
+                "labelAr" : "جولد سكاي" ,
+                "labelEn" : "goldsky"
+            },
+            {
+                "labelAr" : "جولدن إير" ,
+                "labelEn" : "golden air"
+            },
+            {
+                "labelAr" : "جولدن كول" ,
+                "labelEn" : "golden cool"
+            },
+            {
+                "labelAr" : "جينرال إليكتريك" ,
+                "labelEn" : "general electric"
+            },
+            {
+                "labelAr" : "جينيرال برو" ,
+                "labelEn" : "general bro"
+            },
+            {
+                "labelAr" : "جينيرال سمارت" ,
+                "labelEn" : "general smart"
+            },
+            {
+                "labelAr" : "جينيرال فيفا" ,
+                "labelEn" : "general viva"
+            },
+            {
+                "labelAr" : "جينيس" ,
+                "labelEn" : "genius"
+            },
+            {
+                "labelAr" : "دايكن" ,
+                "labelEn" : "daikin"
+            },
+            {
+                "labelAr" : "دايو" ,
+                "labelEn" : "daewoo"
+            },
+            {
+                "labelAr" : "دلتا" ,
+                "labelEn" : "delta"
+            },
+            {
+                "labelAr" : "دنكا" ,
+                "labelEn" : "denka"
+            },
+            {
+                "labelAr" : "راما" ,
+                "labelEn" : "rama"
+            },
+            {
+                "labelAr" : "رامكو" ,
+                "labelEn" : "ramco"
+            },
+            {
+                "labelAr" : "روى" ,
+                "labelEn" : "rowa"
+            },
+            {
+                "labelAr" : "زانوسي" ,
+                "labelEn" : "zanussi"
+            },
+            {
+                "labelAr" : "زوجور" ,
+                "labelEn" : "zogor"
+            },
+            {
+                "labelAr" : "زينت" ,
+                "labelEn" : "zeint"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "ساميكس" ,
+                "labelEn" : "samix"
+            },
+            {
+                "labelAr" : "سايونا" ,
+                "labelEn" : "sayona"
+            },
+            {
+                "labelAr" : "ستار جولد" ,
+                "labelEn" : "stargold"
+            },
+            {
+                "labelAr" : "ستار كول" ,
+                "labelEn" : "star cool"
+            },
+            {
+                "labelAr" : "ستار لايف" ,
+                "labelEn" : "starlife"
+            },
+            {
+                "labelAr" : "سكاي لاين" ,
+                "labelEn" : "skyline"
+            },
+            {
+                "labelAr" : "سمارت تشويس" ,
+                "labelEn" : "smart choice"
+            },
+            {
+                "labelAr" : "سمارت كول" ,
+                "labelEn" : "smartcool"
+            },
+            {
+                "labelAr" : "سونا" ,
+                "labelEn" : "sona"
+            },
+            {
+                "labelAr" : "شارب" ,
+                "labelEn" : "sharp"
+            },
+            {
+                "labelAr" : "شامي" ,
+                "labelEn" : "shami"
+            },
+            {
+                "labelAr" : "شيجو" ,
+                "labelEn" : "chigo"
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal"
+            },
+            {
+                "labelAr" : "فريجيدير" ,
+                "labelEn" : "frigidaire"
+            },
+            {
+                "labelAr" : "فريش" ,
+                "labelEn" : "fresh"
+            },
+            {
+                "labelAr" : "فوجي" ,
+                "labelEn" : "fuji"
+            },
+            {
+                "labelAr" : "فيستل" ,
+                "labelEn" : "vestel"
+            },
+            {
+                "labelAr" : "فيفا" ,
+                "labelEn" : "viva"
+            },
+            {
+                "labelAr" : "فيكتور" ,
+                "labelEn" : "victor"
+            },
+            {
+                "labelAr" : "فيليبس" ,
+                "labelEn" : "philips"
+            },
+            {
+                "labelAr" : "كارير" ,
+                "labelEn" : "carrier"
+            },
+            {
+                "labelAr" : "كرفت" ,
+                "labelEn" : "crafft"
+            },
+            {
+                "labelAr" : "كلاس برو" ,
+                "labelEn" : "classpro"
+            },
+            {
+                "labelAr" : "كلفينيتور" ,
+                "labelEn" : "kelvinator"
+            },
+            {
+                "labelAr" : "كنستار" ,
+                "labelEn" : "kenstar"
+            },
+            {
+                "labelAr" : "كونتي" ,
+                "labelEn" : "conti"
+            },
+            {
+                "labelAr" : "كوندور" ,
+                "labelEn" : "condor"
+            },
+            {
+                "labelAr" : "مابكو" ,
+                "labelEn" : "mabco"
+            },
+            {
+                "labelAr" : "ماتركس" ,
+                "labelEn" : "matrix"
+            },
+            {
+                "labelAr" : "ماجيك شيف" ,
+                "labelEn" : "magic chef"
+            },
+            {
+                "labelAr" : "مايلنج" ,
+                "labelEn" : "mileng"
+            },
+            {
+                "labelAr" : "مسترال" ,
+                "labelEn" : "mistral"
+            },
+            {
+                "labelAr" : "موسكو" ,
+                "labelEn" : "mosco"
+            },
+            {
+                "labelAr" : "ميتسوبيشي" ,
+                "labelEn" : "mitsubishi"
+            },
+            {
+                "labelAr" : "ميتي" ,
+                "labelEn" : "meti"
+            },
+            {
+                "labelAr" : "ميديا" ,
+                "labelEn" : "midea"
+            },
+            {
+                "labelAr" : "ميلون" ,
+                "labelEn" : "milon"
+            },
+            {
+                "labelAr" : "ناشونال الكتريك" ,
+                "labelEn" : "national electric"
+            },
+            {
+                "labelAr" : "ناشونال برو" ,
+                "labelEn" : "national bro"
+            },
+            {
+                "labelAr" : "ناشونال سونيك" ,
+                "labelEn" : "national sonic"
+            },
+            {
+                "labelAr" : "نيوتن" ,
+                "labelEn" : "newton"
+            },
+            {
+                "labelAr" : "هارمونكس" ,
+                "labelEn" : "harmonix"
+            },
+            {
+                "labelAr" : "هاواي" ,
+                "labelEn" : "hawaii"
+            },
+            {
+                "labelAr" : "هاير" ,
+                "labelEn" : "haier"
+            },
+            {
+                "labelAr" : "هايسنس" ,
+                "labelEn" : "hisense"
+            },
+            {
+                "labelAr" : "هوم ماستر" ,
+                "labelEn" : "home master"
+            },
+            {
+                "labelAr" : "هونداي" ,
+                "labelEn" : "hyundai"
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa"
+            },
+            {
+                "labelAr" : "وايت وستنجهاوس" ,
+                "labelEn" : "westinghouse"
+            },
+            {
+                "labelAr" : "يورك" ,
+                "labelEn" : "york"
+            },
+            {
+                "labelAr" : "يونيون إير" ,
+                "labelEn" : "unionaire"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "السعة" ,
+        "labelEn" : "Capacity" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "0 - 1 طن" ,
+                "labelEn" : "0 - 1 ton"
+            },
+            {
+                "labelAr" : "1 - 1.4 طن" ,
+                "labelEn" : "1 - 1.4 ton"
+            },
+            {
+                "labelAr" : "1.5 - 1.9 طن" ,
+                "labelEn" : "1.5 - 1.9 ton"
+            },
+            {
+                "labelAr" : "2 - 2.4 طن" ,
+                "labelEn" : "2 - 2.4 ton"
+            },
+            {
+                "labelAr" : "2.5 - 2.9 طن" ,
+                "labelEn" : "2.5 - 2.9 ton"
+            },
+            {
+                "labelAr" : "3 - 3.4 طن" ,
+                "labelEn" : "3 - 3.4 ton"
+            },
+            {
+                "labelAr" : "3.5 - 3.9 طن" ,
+                "labelEn" : "3.5 - 3.9 ton"
+            },
+            {
+                "labelAr" : "4 - 4.4 طن" ,
+                "labelEn" : "4 - 4.4 ton"
+            },
+            {
+                "labelAr" : "4.5 - 4.9 طن" ,
+                "labelEn" : "4.5 - 4.9 ton"
+            },
+            {
+                "labelAr" : "5 - 5.4 طن" ,
+                "labelEn" : "5 - 5.4 ton"
+            },
+            {
+                "labelAr" : "5.5 - 5.9 طن" ,
+                "labelEn" : "5.5 - 5.9 ton"
+            },
+            {
+                "labelAr" : "6 - 6.4 طن" ,
+                "labelEn" : "6 - 6.4 ton"
+            },
+            {
+                "labelAr" : "6.5 - 6.9 طن" ,
+                "labelEn" : "6.5 - 6.9 ton"
+            },
+            {
+                "labelAr" : "7 - 7.4 طن" ,
+                "labelEn" : "7 - 7.4 ton"
+            },
+            {
+                "labelAr" : "7.5 - 7.9 طن" ,
+                "labelEn" : "7.5 - 7.9 ton"
+            },
+            {
+                "labelAr" : "8+ طن" ,
+                "labelEn" : "8+ ton"
+            }
+        ]
+    },
+    {
+        "labelAr" : "بارد / ساخن" ,
+        "labelEn" : "cold / hot" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "بارد" ,
+                "labelEn" : "cold"
+            },
+            {
+                "labelAr" : "ساخن" ,
+                "labelEn" : "hot"
+            },
+            {
+                "labelAr" : "بارد / ساخن" ,
+                "labelEn" : "cold / hot"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

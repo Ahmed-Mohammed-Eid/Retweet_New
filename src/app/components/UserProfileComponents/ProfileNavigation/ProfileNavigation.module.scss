@@ -1,0 +1,118 @@
+.ProfileNavigation {
+
+    &__header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px;
+        margin-bottom: 20px;
+
+        img {
+            border: 2px solid rgba(255, 203, 60, 1);
+            border-radius: 50%;
+        }
+
+        h2 {
+            font-size: 1.2rem;
+            font-weight: 600;
+            text-transform: capitalize;
+        }
+
+        p {
+            font-size: 1rem;
+            font-weight: 400;
+        }
+    }
+
+    &__body {
+        background-color: rgba(58, 155, 182, 0.03);
+        padding: 15px;
+        border-radius: 20px;
+        border: 1px solid rgba(0, 172, 238, 0.5);
+
+        &__item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-right: 10px;
+            border-radius: 50px;
+
+            &__left {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 10px;
+                padding: 10px 20px;
+
+                svg{
+                    width: 20px;
+                }
+            }
+
+            &__right {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(241, 241, 241, 1);
+                width: 25px;
+                height: 25px;
+                border-radius: 50%;
+                padding: 5px;
+
+                svg{
+                    width: 15px;
+                }
+            }
+
+            &__Active {
+                background-color: rgba(0, 172, 238, 1);
+                color: rgb(255, 255, 255);
+
+                & > div:first-child svg path {
+                    fill: rgb(255, 255, 255);
+                    stroke: rgb(255, 255, 255);
+                }
+
+                & > div:last-child {
+                    background-color: rgba(255, 255, 255, 1);
+                }
+            }
+
+            &:hover {
+                background-color: rgba(0, 172, 238, 0.8);
+                color: rgb(255, 255, 255);
+
+                & > div:first-child svg path {
+                    fill: rgb(255, 255, 255);
+                    stroke: rgb(255, 255, 255);
+                }
+
+                & > div:last-child {
+                    background-color: rgba(255, 255, 255, 1);
+                }
+            }
+
+            &:last-child:hover {
+                background-color: rgb(166, 48, 48);
+                color: rgb(255, 255, 255);
+
+                & > div:first-child svg path {
+                    fill: rgb(255, 255, 255);
+                    stroke: rgb(255, 255, 255);
+                }
+
+                & > div:last-child {
+                    background-color: rgba(255, 255, 255, 1);
+                }
+            }
+        }
+
+        &__line{
+            width: 90%;
+            height: .5px;
+            background-color: rgba(0, 0, 0, 0.1);
+            margin: 5px auto;
+        }
+    }
+}

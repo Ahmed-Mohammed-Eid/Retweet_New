@@ -1,0 +1,77 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "رام" ,
+                "labelEn" : "ram" 
+            },
+            {
+                "labelAr" : "كرت الشاشة" ,
+                "labelEn" : "Graphics card" 
+            },
+            {
+                "labelAr" : "معالج" ,
+                "labelEn" : "Processor" 
+            },
+            {
+                "labelAr" : "صندوق كمبيوتر" ,
+                "labelEn" : "Computer box" 
+            },
+            {
+                "labelAr" : "قارئ اقراص" ,
+                "labelEn" : "Disc reader" 
+            },
+            {
+                "labelAr" : "مزود طاقة" ,
+                "labelEn" : "Power supply" 
+            },
+            {
+                "labelAr" : "مراوح وتبريد" ,
+                "labelEn" : "Fans and cooling" 
+            },
+            {
+                "labelAr" : "شواحن وكوابل" ,
+                "labelEn" : "Chargers and cables" 
+            },
+            {
+                "labelAr" : "بطاقة صوتيات" ,
+                "labelEn" : "Audio card" 
+            },
+            {
+                "labelAr" : "اللوحة الأم" ,
+                "labelEn" : "Motherboard" 
+            },
+            {
+                "labelAr" : "بطاريات" ,
+                "labelEn" : "Batteries" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+.uploadFileCamera {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 260px;
+    min-width: 260px;
+    background-color: #FFFFFF;
+    border: 1px dashed #F5A92F;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    h3{
+        position: absolute;
+        top: 0;
+        left: 10px;
+        transform: translate(0, -90%);
+        font-size: 16px;
+        font-weight: 500;
+        padding: 5px 25px;
+        color: #ffffff;
+        width: 80%;
+        margin-top: 10px;
+        background-color: #19313E;
+        border-radius: 5px;
+    }
+
+    label{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+    }
+
+    .SelectedImage{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+
+    .removeImage{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(50%, -50%);
+        background-color: #ffffff;
+        color: #ffffff;
+        border: 1px solid #19313E;
+        padding: 5px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        width: 25px;
+        height: 25px;
+
+        svg path{
+            fill: #19313E;
+        }
+
+        img{
+            width: 10px;
+            height: 10px;
+        }
+
+        &:hover{
+            background-color: #19313E;
+            color: #ffffff;
+
+            svg path{
+                fill: #ffffff;
+            }
+        }
+
+        &:active{
+            transform: translate(50%, -50%) scale(0.9);
+        }
+    }
+
+    input {
+        display: none;
+    }
+
+    &:hover {
+        background-color: #e0e0e0;
+    }
+}

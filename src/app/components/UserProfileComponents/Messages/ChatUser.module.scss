@@ -1,0 +1,77 @@
+.chat_user {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #F3A72F10;
+    cursor: pointer;
+
+    .chat_user_top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+
+        .chat_user_name {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #000;
+            user-select: none;
+
+            .has_new_message {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                background-color: #F3A72F;
+                user-select: none;
+            }
+        }
+
+        .chat_user_time {
+            font-size: .8rem;
+            color: #000;
+            user-select: none;
+        }
+    }
+
+    .chat_user_bottom {
+        display: flex;
+        justify-content: flex-start;
+        gap: 10px;
+        align-items: center;
+
+        .chat_user_message {
+            font-size: 1rem;
+            color: #A7A7A7;
+            user-select: none;
+
+            // MAX HEIGHT 1 LINE OF TEXT AND OVERFLOW ELLIPSIS
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            max-width: 80%;
+        }
+    }
+
+    // HOVER
+    &:hover {
+        background-color: #F3A72F20;
+    }
+
+    // ACTIVE CLASS FOR ACTIVE STATUS
+    &.active {
+        background-color: #FFFFFF;
+    }
+
+    &.read {
+        .chat_user_message {
+            background-color: #FFFFFF;
+        }
+    }
+}

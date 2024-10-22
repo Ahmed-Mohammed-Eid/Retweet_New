@@ -1,0 +1,50 @@
+.SearchBox{
+    position: relative;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #FFFFFF;
+    padding: 20px 0;
+    box-sizing: border-box;
+
+    .SearchBox__input{
+        width: 100%;
+        height: 60px;
+        border-radius: 10px;
+        background: rgba(243, 249, 251, 1);
+        padding: 0 20px;
+        box-sizing: border-box;
+        border: 0;
+
+        &:focus{
+            outline: 1px solid rgba(0, 172, 238, 1);
+        }
+    }
+    .SearchBox__button{
+        position: absolute;
+        height: 40px;
+        right: 10px;
+        top: 30px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        padding: 0 10px;
+        box-sizing: border-box;
+        background-color: rgba(0, 172, 238, 1);
+        transition: all 0.15s ease-in-out;
+        color: #FFFFFF;
+        cursor: pointer;
+
+        &:hover{
+            background-color: rgb(11, 159, 217);
+        }
+
+        &:focus{
+            outline: 1px solid rgba(0, 172, 238, 1);
+        }
+
+        &:active{
+            background-color: rgb(11, 159, 217);
+            transform: scale(0.95);
+        }
+    }
+}

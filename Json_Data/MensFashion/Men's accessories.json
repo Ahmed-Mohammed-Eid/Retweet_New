@@ -1,0 +1,75 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "خواتم" ,
+                "labelEn" : "rings" 
+            },
+            {
+                "labelAr" : "نظارات" ,
+                "labelEn" : "glasses" 
+            },
+            {
+                "labelAr" : "اقلام" ,
+                "labelEn" : "pens" 
+            },
+            {
+                "labelAr" : "قداحات" ,
+                "labelEn" : "lighters" 
+            },
+            {
+                "labelAr" : "شنط - محافظ" ,
+                "labelEn" : "bags - wallet" 
+            },
+            {
+                "labelAr" : "احزمة" ,
+                "labelEn" : "belts" 
+            },
+            {
+                "labelAr" : "سبح" ,
+                "labelEn" : "misbaha - rosary" 
+            },
+            {
+                "labelAr" : "شماغ - حطة - عقال" ,
+                "labelEn" : "chmagh - hetta - headband" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

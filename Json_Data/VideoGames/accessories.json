@@ -1,0 +1,101 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "سماعات" ,
+                "labelEn" : "speakers" 
+            },
+            {
+                "labelAr" : "يد تحكم" ,
+                "labelEn" : "control hand" 
+            },
+            {
+                "labelAr" : "ستيرنج" ,
+                "labelEn" : "Steering" 
+            },
+            {
+                "labelAr" : "VR" ,
+                "labelEn" : "VR" 
+            },
+            {
+                "labelAr" : "كيبورد وماوس" ,
+                "labelEn" : "keyboard and mouse" 
+            },
+            {
+                "labelAr" : "كراسي" ,
+                "labelEn" : "chairs" 
+            },
+            {
+                "labelAr" : "شواحن و أسلاك" ,
+                "labelEn" : "Chargers and cables" 
+            },
+            {
+                "labelAr" : "أصابع ببجي" ,
+                "labelEn" : "PUBG fingers" 
+            },
+            {
+                "labelAr" : "اكسسوارات العاب أخرى" ,
+                "labelEn" : "Other games accessories" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اكس بوكس" ,
+                "labelEn" : "xbox" 
+            },
+            {
+                "labelAr" : "نينتيندو" ,
+                "labelEn" : "nintendo" 
+            },
+            {
+                "labelAr" : "كمبيوتر العاب" ,
+                "labelEn" : "computer gaming" 
+            },
+            {
+                "labelAr" : "بلايستيشن" ,
+                "labelEn" : "playstation" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

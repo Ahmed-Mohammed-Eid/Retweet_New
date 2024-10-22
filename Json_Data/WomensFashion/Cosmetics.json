@@ -1,0 +1,156 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "ميك اب - مكياج" ,
+                "labelEn" : "makeup" ,
+                "options" : 
+                [
+                    {
+                        "labelAr" : "مكياج العيون" ,
+                        "labelEn" : "eyes" 
+                    },
+                    {
+                        "labelAr" : "مكياج الوجه" ,
+                        "labelEn" : "face" 
+                    },
+                    {
+                        "labelAr" : "مكياج الشفاه" ,
+                        "labelEn" : "lips" 
+                    },
+                    {
+                        "labelAr" : "طقم مكياج" ,
+                        "labelEn" : "sets" 
+                    },
+                    {
+                        "labelAr" : "العناية بالاظافر" ,
+                        "labelEn" : "nails" 
+                    },
+                    {
+                        "labelAr" : "فرش المكياج" ,
+                        "labelEn" : "brushes & applicators" 
+                    },
+                    {
+                        "labelAr" : "أخرى" ,
+                        "labelEn" : "others" 
+                    }
+                ]
+            },
+            {
+                "labelAr" : "العناية بالبشرة" ,
+                "labelEn" : "skin care" ,
+                "options" : 
+                [
+                    {
+                        "labelAr" : "كريمات" ,
+                        "labelEn" : "lotion & cream" 
+                    },
+                    {
+                        "labelAr" : "منظف" ,
+                        "labelEn" : "cleanser" 
+                    },
+                    {
+                        "labelAr" : "أطقم" ,
+                        "labelEn" : "sets" 
+                    },
+                    {
+                        "labelAr" : "أقنعة الوجه" ,
+                        "labelEn" : "mask" 
+                    },
+                    {
+                        "labelAr" : "تقشير" ,
+                        "labelEn" : "exfoliation" 
+                    },
+                    {
+                        "labelAr" : "موحد لون البشرة" ,
+                        "labelEn" : "toner & astringent" 
+                    },
+                    {
+                        "labelAr" : "مبيض" ,
+                        "labelEn" : "whitener" 
+                    },
+                    {
+                        "labelAr" : "أخرى" ,
+                        "labelEn" : "others" 
+                    }
+                ]
+            },
+            {
+                "labelAr" : "العناية بالشعر" ,
+                "labelEn" : "hair care" ,
+                "options" : 
+                [
+                    {
+                        "labelAr" : "شامبو وملطف الشعر" ,
+                        "labelEn" : "shampoo & conditioner" 
+                    },
+                    {
+                        "labelAr" : "صبغات للشعر" ,
+                        "labelEn" : "hair color" 
+                    },
+                    {
+                        "labelAr" : "كريمات معالجة" ,
+                        "labelEn" : "treatment" 
+                    },
+                    {
+                        "labelAr" : "وصلات شعر" ,
+                        "labelEn" : "hair extensions" 
+                    },
+                    {
+                        "labelAr" : "أخرى" ,
+                        "labelEn" : "others" 
+                    }
+                ]
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" ,
+                "options" : 
+                [
+                    {
+                        "labelAr" : "أخرى" ,
+                        "labelEn" : "others" 
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفرع" ,
+        "labelEn" : "Branch" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

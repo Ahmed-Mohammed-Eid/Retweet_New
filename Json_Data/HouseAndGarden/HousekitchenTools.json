@@ -1,0 +1,58 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اواني - صحون" ,
+                "labelEn" : "Utensils - plates" 
+            },
+            {
+                "labelAr" : "ادوات تناول الطعام" ,
+                "labelEn" : "Eating utensils" 
+            },
+            {
+                "labelAr" : "ادوات القلي والطبخ" ,
+                "labelEn" : "Frying and cooking tools" 
+            },
+            {
+                "labelAr" : "كؤوس - فناجين - اكواب" ,
+                "labelEn" : "Cups - mugs" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

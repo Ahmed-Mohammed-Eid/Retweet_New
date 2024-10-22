@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --tajwal-font: 'Tajawal', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #FFFFFF;
+    font-family: 'Tajawal', sans-serif;
+}
+
+body::-webkit-scrollbar,
+body *::-webkit-scrollbar {
+    width: 5px;
+}
+
+body::-webkit-scrollbar-thumb,
+body *::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 172, 238);
+    border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track,
+body *::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        padding: 0 30px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding: 0 45px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        padding: 0 60px;
+    }
+}
+
+/*SWIPER RESET*/
+.swiper {
+    z-index: 0 !important;
+}
+
+.swiper-pagination-bullet {
+    background: #FFFFFF !important;
+}
+
+.swiper-pagination-bullet-active {
+    background: #FFFFFF !important;
+    width: 16px !important;
+    border-radius: 3px !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    background-color: rgba(243, 249, 251, 1);
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+    font-size: 18px !important;
+    color: rgba(0, 142, 204, 1) !important;
+}
+
+/*BUTTON STYLE*/
+
+.button--effect{
+    transition: all 0.15s ease-in-out;
+
+    &:active{
+        transform: scale(0.95);
+    }
+}
+.button--effect-small{
+    transition: all 0.25s ease-in-out;
+
+    &:active{
+        transform: scale(0.99);
+    }
+}
+
+
+
+/* RESET THE DROPDOWN FOCUS*/
+.p-dropdown:not(.p-disabled).p-focus{
+    box-shadow: 0 0 3px rgba(0, 142, 204, 1);
+}
+
+.circle__white{
+    border-color: #fb923c;
+    border-width: 3px;
+    background: #FFFFFF;
+}
+
+.overlay__loading{
+    display: none;
+}
+
+body[data-loading] .overlay__loading{
+    display: block;
+}

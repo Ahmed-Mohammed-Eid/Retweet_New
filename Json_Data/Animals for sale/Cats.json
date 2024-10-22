@@ -1,0 +1,53 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "سكوتش فولد" ,
+                "labelEn" : "scottish" 
+            },
+            {
+                "labelAr" : "شانشيلا" ,
+                "labelEn" : "chinchilla" 
+            },
+            {
+                "labelAr" : "سيامي" ,
+                "labelEn" : "siamese" 
+            },
+            {
+                "labelAr" : "سيبيري" ,
+                "labelEn" : "siberian" 
+            },
+            {
+                "labelAr" : "بنغال" ,
+                "labelEn" : "bengal" 
+            },
+            {
+                "labelAr" : "ديفون ريكس" ,
+                "labelEn" : "devon rex" 
+            },
+            {
+                "labelAr" : "ميست" ,
+                "labelEn" : "mist" 
+            },
+            {
+                "labelAr" : "شيرازي" ,
+                "labelEn" : "persian" 
+            },
+            {
+                "labelAr" : "هملايا" ,
+                "labelEn" : "himalayan" 
+            },
+            {
+                "labelAr" : "مكس" ,
+                "labelEn" : "mix" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    }
+]

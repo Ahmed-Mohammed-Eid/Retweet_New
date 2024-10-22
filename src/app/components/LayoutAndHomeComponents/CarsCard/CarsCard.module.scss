@@ -1,0 +1,95 @@
+.Card{
+    width: 270px;
+    height: 322px;
+
+    @media screen and (max-width: 584px){
+        margin: auto;
+    }
+
+    &__Img{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(245, 245, 245, 1);
+        height: 250px;
+        overflow: hidden;
+
+        img{
+            //max-width: 190px;
+            //max-height: 180px;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+        }
+    }
+
+    &__buttons{
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 10px;
+
+        button{
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            margin-bottom: 5px;
+            border: none;
+            background-color: rgb(255, 255, 255);
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+
+            &:hover{
+                background-color: rgba(0, 172, 238, 1);
+                color: #FFFFFF;
+            }
+
+            &:active{
+                transform: scale(0.95);
+            }
+
+            img{
+                position: initial;
+                width: 20px;
+                height: 20px;
+            }
+        }
+    }
+
+    &__Info{
+        padding: 10px 0 0 0;
+
+        h3{
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: rgb(0, 0, 0);
+            text-transform: uppercase;
+
+            // MAKE IT MAX 1 LINE
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        p{
+            font-size: 1rem;
+            font-weight: 500;
+            color: rgba(245, 169, 47, 1);
+        }
+    }
+}

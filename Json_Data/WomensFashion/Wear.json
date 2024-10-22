@@ -1,0 +1,784 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "فساتين" ,
+                "labelEn" : "Dresses" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "سهرة" ,
+                        "labelEn" : "evening"
+                    },
+                    {
+                        "labelAr" : "خطب واعراس" ,
+                        "labelEn" : "weddings and engagements"
+                    },
+                    {
+                        "labelAr" : "فساتين كاجوال" ,
+                        "labelEn" : "casual dresses"
+                    },
+                    {
+                        "labelAr" : "فساتين قصيرة" ,
+                        "labelEn" : "mini dresses"
+                    },
+                    {
+                        "labelAr" : "فساتين طويلة" ,
+                        "labelEn" : "maxi dresses"
+                    },
+                    {
+                        "labelAr" : "جمبسوت ورومبر" ,
+                        "labelEn" : "jumpsuits & rompers"
+                    },
+                    {
+                        "labelAr" : "فساتين حوامل" ,
+                        "labelEn" : "pregnancy dresses"
+                    },
+                    {
+                        "labelAr" : "اخرى",
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "بلايز - قمصان" ,
+                "labelEn" : "Tops - Shirts" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "قمصان" ,
+                        "labelEn" : "shirts"
+                    },
+                    {
+                        "labelAr" : "بلايز باكمام طويلة" ,
+                        "labelEn" : "long sleeves shirts"
+                    },
+                    {
+                        "labelAr" : "بلايز بدون اكمام" ,
+                        "labelEn" : "sleeveless shirts"
+                    },
+                    {
+                        "labelAr" : "بلايز بدي قصيرة" ,
+                        "labelEn" : "crop tops"
+                    },
+                    {
+                        "labelAr" : "بلايز باكمام قصيرة" ,
+                        "labelEn" : "short sleeves shirts"
+                    },
+                    {
+                        "labelAr" : "تونيكات" ,
+                        "labelEn" : "tunics"
+                    },
+                    {
+                        "labelAr" : "بلايز حوامل" ,
+                        "labelEn" : "pregnancy tops"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "بناطيل" ,
+                "labelEn" : "Pants" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "جينز" ,
+                        "labelEn" : "jeans"
+                    },
+                    {
+                        "labelAr" : "بناطيل رياضة" ,
+                        "labelEn" : "sweatpants"
+                    },
+                    {
+                        "labelAr" : "فيزونات" ,
+                        "labelEn" : "leggings"
+                    },
+                    {
+                        "labelAr" : "جلد" ,
+                        "labelEn" : "leather"
+                    },
+                    {
+                        "labelAr" : "كتان" ,
+                        "labelEn" : "linen"
+                    },
+                    {
+                        "labelAr" : "كوردروي" ,
+                        "labelEn" : "corduroys"
+                    },
+                    {
+                        "labelAr" : "عالي الخصر" ,
+                        "labelEn" : "high waist"
+                    },
+                    {
+                        "labelAr" : "بناطيل يومية" ,
+                        "labelEn" : "casual pants"
+                    },
+                    {
+                        "labelAr" : "بناطيل مناسبات" ,
+                        "labelEn" : "dress pants"
+                    },
+                    {
+                        "labelAr" : "بناطيل حوامل" ,
+                        "labelEn" : "pregnancy pants"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "ملابس داخلية - ملابس نوم" ,
+                "labelEn" : "lingerie - pajamas" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "مشدات" ,
+                        "labelEn" : "corsetry"
+                    },
+                    {
+                        "labelAr" : "لانجري" ,
+                        "labelEn" : "lingerie"
+                    },
+                    {
+                        "labelAr" : "بيجامات وقمصان نوم" ,
+                        "labelEn" : "pajamas and lingerie"
+                    },
+                    {
+                        "labelAr" : "الأرواب" ,
+                        "labelEn" : "dressing gowns"
+                    },
+                    {
+                        "labelAr" : "أطقم الشورتات" ,
+                        "labelEn" : "short sets"
+                    },
+                    {
+                        "labelAr" : "ملابس نوم للحوامل" ,
+                        "labelEn" : "pregnancy nightwear"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "جاكيتات - معاطف" ,
+                "labelEn" : "Jackets - coats" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "جاكيتات" ,
+                        "labelEn" : "jackets"
+                    },
+                    {
+                        "labelAr" : "جاكيتات رسمية" ,
+                        "labelEn" : "blazers"
+                    },
+                    {
+                        "labelAr" : "معاطف" ,
+                        "labelEn" : "coats"
+                    },
+                    {
+                        "labelAr" : "سترات بلا أكمام" ,
+                        "labelEn" : "gilets"
+                    },
+                    {
+                        "labelAr" : "كنزات" ,
+                        "labelEn" : "sweaters"
+                    },
+                    {
+                        "labelAr" : "كارديغان" ,
+                        "labelEn" : "cardigans"
+                    },
+                    {
+                        "labelAr" : "سترات بدل" ,
+                        "labelEn" : "suit jackets"
+                    },
+                    {
+                        "labelAr" : "جاكيتات حوامل" ,
+                        "labelEn" : "pregnancy jackets"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "اقمشة - عبايات - جلابيات" ,
+                "labelEn" : "textile - Abayas - Jalabiyas" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "جلابيات" ,
+                        "labelEn" : "jalabiya"
+                    },
+                    {
+                        "labelAr" : "قفطان" ,
+                        "labelEn" : "kaftan"
+                    },
+                    {
+                        "labelAr" : "ثواب" ,
+                        "labelEn" : "thoub"
+                    },
+                    {
+                        "labelAr" : "اقمشة" ,
+                        "labelEn" : "fabrics"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "شالات واشاربات" ,
+                "labelEn" : "scarves and veils" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "شالات" ,
+                        "labelEn" : "scarves"
+                    },
+                    {
+                        "labelAr" : "شالات كروشية" ,
+                        "labelEn" : "crochet scarves"
+                    },
+                    {
+                        "labelAr" : "اشربات" ,
+                        "labelEn" : "hijab"
+                    },
+                    {
+                        "labelAr" : "اكسسوارات محجبات" ,
+                        "labelEn" : "hijab accessories"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "أطقم" ,
+                "labelEn" : "sets" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "أطقم عملية" ,
+                        "labelEn" : "casual set"
+                    },
+                    {
+                        "labelAr" : "أطقم رسمية" ,
+                        "labelEn" : "formal set"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "شورتات" ,
+                "labelEn" : "Shorts" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "شورتات جينز" ,
+                        "labelEn" : "jeans shorts"
+                    },
+                    {
+                        "labelAr" : "شورتات قماش" ,
+                        "labelEn" : "cloth shorts"
+                    },
+                    {
+                        "labelAr" : "شورتات جلد" ,
+                        "labelEn" : "leather shorts"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "تنانير" ,
+                "labelEn" : "Skirts" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "كسرات" ,
+                        "labelEn" : "pleated"
+                    },
+                    {
+                        "labelAr" : "ملفوفة" ,
+                        "labelEn" : "wrap"
+                    },
+                    {
+                        "labelAr" : "فضفاضة" ,
+                        "labelEn" : "maxi"
+                    },
+                    {
+                        "labelAr" : "قصيرة" ,
+                        "labelEn" : "mini"
+                    },
+                    {
+                        "labelAr" : "تنورة طويلة" ,
+                        "labelEn" : "full skirt"
+                    },
+                    {
+                        "labelAr" : "مموج" ,
+                        "labelEn" : "ruffle"
+                    },
+                    {
+                        "labelAr" : "A لاين" ,
+                        "labelEn" : "a-line"
+                    },
+                    {
+                        "labelAr" : "قصة مستقيمة" ,
+                        "labelEn" : "straight"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "ملابس رياضية" ,
+                "labelEn" : "Sportswear" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "تيشيرتات" ,
+                        "labelEn" : "t-shirts"
+                    },
+                    {
+                        "labelAr" : "بناطيل وشورتات" ,
+                        "labelEn" : "bottoms"
+                    },
+                    {
+                        "labelAr" : "بروتيلات رياضية" ,
+                        "labelEn" : "tank tops"
+                    },
+                    {
+                        "labelAr" : "صدريات رياضية" ,
+                        "labelEn" : "sports bra"
+                    },
+                    {
+                        "labelAr" : "جاكيتات رياضية" ,
+                        "labelEn" : "jackets"
+                    },
+                    {
+                        "labelAr" : "ملابس سباحة" ,
+                        "labelEn" : "swimwear"
+                    },
+                    {
+                        "labelAr" : "أطقم رياضية" ,
+                        "labelEn" : "sports sets"
+                    },
+                    {
+                        "labelAr" : "ملابس رياضية للحوامل" ,
+                        "labelEn" : "pregnancy sportswear"
+                    },
+                    {
+                        "labelAr" : "اخرى" ,
+                        "labelEn" : "others"
+                    }
+                ]
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" ,
+                "options" :
+                [
+                    {
+                        "labelAr" : "جميع الخيارات" ,
+                        "labelEn" : "all options"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفرع" ,
+        "labelEn" : "Branch" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "القياس" ,
+        "labelEn" : "size" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "XS" ,
+                "labelEn" : "XS"
+            },
+            {
+                "labelAr" : "S" ,
+                "labelEn" : "S"
+            },
+            {
+                "labelAr" : "M" ,
+                "labelEn" : "M"
+            },
+            {
+                "labelAr" : "L" ,
+                "labelEn" : "L"
+            },
+            {
+                "labelAr" : "XL" ,
+                "labelEn" : "XL"
+            },
+            {
+                "labelAr" : "2XL" ,
+                "labelEn" : "2XL"
+            },
+            {
+                "labelAr" : "3XL" ,
+                "labelEn" : "3XL"
+            },
+            {
+                "labelAr" : "4XL" ,
+                "labelEn" : "4XL"
+            },
+            {
+                "labelAr" : "5XL" ,
+                "labelEn" : "5XL"
+            },
+            {
+                "labelAr" : "6XL" ,
+                "labelEn" : "6XL"
+            },
+            {
+                "labelAr" : "قياس واحد" ,
+                "labelEn" : "one size"
+            }
+        ]
+    },
+    {
+        "labelAr" : "اللون" ,
+        "labelEn" : "color" ,
+        "Values" : [
+            {
+                "labelAr" : "أسود" ,
+                "labelEn" : "black"
+            },
+            {
+                "labelAr" : "أبيض" ,
+                "labelEn" : "white"
+            },
+            {
+                "labelAr" : "أحمر" ,
+                "labelEn" : "red"
+            },
+            {
+                "labelAr" : "أزرق" ,
+                "labelEn" : "blue"
+            },
+            {
+                "labelAr" : "أصفر" ,
+                "labelEn" : "yellow"
+            },
+            {
+                "labelAr" : "أخضر" ,
+                "labelEn" : "green"
+            },
+            {
+                "labelAr" : "برتقالي" ,
+                "labelEn" : "orange"
+            },
+            {
+                "labelAr" : "بني" ,
+                "labelEn" : "brown"
+            },
+            {
+                "labelAr" : "بيج" ,
+                "labelEn" : "beige"
+            },
+            {
+                "labelAr" : "بنفسجي" ,
+                "labelEn" : "purple"
+            },
+            {
+                "labelAr" : "رمادي" ,
+                "labelEn" : "gray"
+            },
+            {
+                "labelAr" : "ذهبي" ,
+                "labelEn" : "gold"
+            },
+            {
+                "labelAr" : "فضي" ,
+                "labelEn" : "silver"
+            },
+            {
+                "labelAr" : "زهري" ,
+                "labelEn" : "pink"
+            },
+            {
+                "labelAr" : "ملون" ,
+                "labelEn" : "multicolor"
+            },
+            {
+                "labelAr" : "شفاف" ,
+                "labelEn" : "transparent"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "H&M" ,
+                "labelEn" : "H&M"
+            },
+            {
+                "labelAr" : "آن تايلور" ,
+                "labelEn" : "ann taylor"
+            },
+            {
+                "labelAr" : "أميريكان ايجل" ,
+                "labelEn" : "american eagle"
+            },
+            {
+                "labelAr" : "أويشو" ,
+                "labelEn" : "oysho"
+            },
+            {
+                "labelAr" : "اديداس" ,
+                "labelEn" : "adidas"
+            },
+            {
+                "labelAr" : "ال سي وايكيكي" ,
+                "labelEn" : "lc wailkiki"
+            },
+            {
+                "labelAr" : "اوكسو" ,
+                "labelEn" : "oxxo"
+            },
+            {
+                "labelAr" : "اولد نيفي" ,
+                "labelEn" : "old navy"
+            },
+            {
+                "labelAr" : "بانانا ريبوبليك" ,
+                "labelEn" : "banana republic"
+            },
+            {
+                "labelAr" : "بانجايا" ,
+                "labelEn" : "pangaia"
+            },
+            {
+                "labelAr" : "برومود" ,
+                "labelEn" : "promod"
+            },
+            {
+                "labelAr" : "بوجي" ,
+                "labelEn" : "boggi"
+            },
+            {
+                "labelAr" : "بول اند بير" ,
+                "labelEn" : "pull & bear"
+            },
+            {
+                "labelAr" : "بولو" ,
+                "labelEn" : "polo"
+            },
+            {
+                "labelAr" : "بوما" ,
+                "labelEn" : "puma"
+            },
+            {
+                "labelAr" : "بيبي" ,
+                "labelEn" : "bebe"
+            },
+            {
+                "labelAr" : "بيرشكا" ,
+                "labelEn" : "bershka"
+            },
+            {
+                "labelAr" : "تشامبيون" ,
+                "labelEn" : "champion"
+            },
+            {
+                "labelAr" : "تشيكو" ,
+                "labelEn" : "chico's"
+            },
+            {
+                "labelAr" : "تومي هيلفيغر" ,
+                "labelEn" : "tommy hilfiger"
+            },
+            {
+                "labelAr" : "جاب" ,
+                "labelEn" : "gap"
+            },
+            {
+                "labelAr" : "جيس" ,
+                "labelEn" : "guess"
+            },
+            {
+                "labelAr" : "دابنهامز" ,
+                "labelEn" : "debenhams"
+            },
+            {
+                "labelAr" : "رالف لورين" ,
+                "labelEn" : "ralph lauren"
+            },
+            {
+                "labelAr" : "ريبوك" ,
+                "labelEn" : "reebok"
+            },
+            {
+                "labelAr" : "زارا" ,
+                "labelEn" : "zara"
+            },
+            {
+                "labelAr" : "سانتا باربارا بولو" ,
+                "labelEn" : "santa barbara polo"
+            },
+            {
+                "labelAr" : "سبيريت" ,
+                "labelEn" : "spirit"
+            },
+            {
+                "labelAr" : "ستراديفاريوس" ,
+                "labelEn" : "stradivarius"
+            },
+            {
+                "labelAr" : "فري لوك" ,
+                "labelEn" : "freelook"
+            },
+            {
+                "labelAr" : "فندي" ,
+                "labelEn" : "fendi"
+            },
+            {
+                "labelAr" : "فورايفر 21",
+                "labelEn" : "forever 21"
+            },
+            {
+                "labelAr" : "فيرو مودا" ,
+                "labelEn" : "vero moda"
+            },
+            {
+                "labelAr" : "فيكتوريا سيكريت" ,
+                "labelEn" : "victoria's secret"
+            },
+            {
+                "labelAr" : "كاروليتا" ,
+                "labelEn" : "carolleta"
+            },
+            {
+                "labelAr" : "كارين ميللين" ,
+                "labelEn" : "karen millen"
+            },
+            {
+                "labelAr" : "كالزيدونيا" ,
+                "labelEn" : "calzedonia"
+            },
+            {
+                "labelAr" : "كالفن كلاين" ,
+                "labelEn" : "calvin klein"
+            },
+            {
+                "labelAr" : "كوتون" ,
+                "labelEn" : "koton"
+            },
+            {
+                "labelAr" : "كوليزيوني" ,
+                "labelEn" : "collezione"
+            },
+            {
+                "labelAr" : "كولينز" ,
+                "labelEn" : "colin's"
+            },
+            {
+                "labelAr" : "كويز" ,
+                "labelEn" : "quiz"
+            },
+            {
+                "labelAr" : "لا في اون روز" ,
+                "labelEn" : "la vie en rose"
+            },
+            {
+                "labelAr" : "ليفي" ,
+                "labelEn" : "levi's"
+            },
+            {
+                "labelAr" : "ماتلان" ,
+                "labelEn" : "matalan"
+            },
+            {
+                "labelAr" : "ماسيمو دوتي" ,
+                "labelEn" : "massimo dutti"
+            },
+            {
+                "labelAr" : "ماكس" ,
+                "labelEn" : "max"
+            },
+            {
+                "labelAr" : "مانجو" ,
+                "labelEn" : "mango"
+            },
+            {
+                "labelAr" : "مودا نوفا" ,
+                "labelEn" : "modanova"
+            },
+            {
+                "labelAr" : "مونسون" ,
+                "labelEn" : "monsoon"
+            },
+            {
+                "labelAr" : "نايكي" ,
+                "labelEn" : "nike"
+            },
+            {
+                "labelAr" : "نيكست" ,
+                "labelEn" : "next"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

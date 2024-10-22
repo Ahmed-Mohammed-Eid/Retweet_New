@@ -1,0 +1,106 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "Aoc" ,
+                "labelEn" : "Aoc" 
+            },
+            {
+                "labelAr" : "إليانوير" ,
+                "labelEn" : "alienware" 
+            },
+            {
+                "labelAr" : "ابل" ,
+                "labelEn" : "apple" 
+            },
+            {
+                "labelAr" : "اتش بي" ,
+                "labelEn" : "hp" 
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg" 
+            },
+            {
+                "labelAr" : "ام إس أي" ,
+                "labelEn" : "msi" 
+            },
+            {
+                "labelAr" : "ايسر" ,
+                "labelEn" : "acer" 
+            },
+            {
+                "labelAr" : "ايسوس" ,
+                "labelEn" : "asus" 
+            },
+            {
+                "labelAr" : "باكارد بيل" ,
+                "labelEn" : "packard bell" 
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba" 
+            },
+            {
+                "labelAr" : "جيت واي" ,
+                "labelEn" : "gateway" 
+            },
+            {
+                "labelAr" : "ديل" ,
+                "labelEn" : "dell" 
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung" 
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony" 
+            },
+            {
+                "labelAr" : "فوجيتسو" ,
+                "labelEn" : "fujitsu" 
+            },
+            {
+                "labelAr" : "لينوفو" ,
+                "labelEn" : "lenovo" 
+            },
+            {
+                "labelAr" : "هواوي" ,
+                "labelEn" : "huawei" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "حجم الشاشة" ,
+        "labelEn" : "Screen Size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

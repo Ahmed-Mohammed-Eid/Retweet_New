@@ -1,0 +1,49 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اجهزة مساج" ,
+                "labelEn" : "Massage devices" 
+            },
+            {
+                "labelAr" : "اجهزة تصفيف الشعر" ,
+                "labelEn" : "Hair styling devices" 
+            },
+            {
+                "labelAr" : "اجهزة إزالة الشعر" ,
+                "labelEn" : "Hair removal devices" 
+            },
+            {
+                "labelAr" : "ماكينات حلاقة" ,
+                "labelEn" : "Shaving machines" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "مفاتيح" ,
+                "labelEn" : "keys" 
+            },
+            {
+                "labelAr" : "اجهزة انذار وسنتر لوك" ,
+                "labelEn" : "alarm systems" 
+            },
+            {
+                "labelAr" : "حمالات شواحن للموبايل" ,
+                "labelEn" : "phone holders" 
+            },
+            {
+                "labelAr" : "فرش وارضيات واغطية" ,
+                "labelEn" : "floors and covers" 
+            },
+            {
+                "labelAr" : "ادوات تنظيف ومعطرات" ,
+                "labelEn" : "cleaning tools and fresheners" 
+            },
+            {
+                "labelAr" : "تظليل زجاج - ستيكرز" ,
+                "labelEn" : "window tint - stickers" 
+            },
+            {
+                "labelAr" : "مسجلات" ,
+                "labelEn" : "recorders" 
+            },
+            {
+                "labelAr" : "سماعات" ,
+                "labelEn" : "speakers" 
+            },
+            {
+                "labelAr" : "سيستم" ,
+                "labelEn" : "sound system" 
+            },
+            {
+                "labelAr" : "شاشات" ,
+                "labelEn" : "screens" 
+            },
+            {
+                "labelAr" : "كاميرات  وحساسات" ,
+                "labelEn" : "cameras and sensors" 
+            },
+            {
+                "labelAr" : "اجهزة تتبع" ,
+                "labelEn" : "gps" 
+            },
+            {
+                "labelAr" : "مساحات" ,
+                "labelEn" : "windshield wipers" 
+            },
+            {
+                "labelAr" : "بواجي" ,
+                "labelEn" : "spark plug" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

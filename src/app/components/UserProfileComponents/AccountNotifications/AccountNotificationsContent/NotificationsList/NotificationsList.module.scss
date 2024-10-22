@@ -1,0 +1,31 @@
+.NotificationsList {
+    // NOTIFICATIONS
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 40px;
+    max-height: 475px;
+    overflow-y: auto;
+
+    // CUSTOM SCROLL
+    &::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: rgb(0, 172, 238);
+        border-radius: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background-color: transparent;
+        border-radius: 10px;
+    }
+
+
+    // NOTIFICATION
+    // COLOR THE EVEN CHILDREN OF THIS ELEMENT WITH SPECIFIC COLOR
+    & > div:nth-child(odd) {
+        background-color: rgba(#F3F9FB, .85);
+    }
+}

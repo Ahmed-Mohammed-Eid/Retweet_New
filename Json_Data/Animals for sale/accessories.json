@@ -1,0 +1,67 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أسماك" ,
+                "labelEn" : "fish" 
+            },
+            {
+                "labelAr" : "خيل" ,
+                "labelEn" : "horses" 
+            },
+            {
+                "labelAr" : "طيور ودواجن" ,
+                "labelEn" : "birds & poultry" 
+            },
+            {
+                "labelAr" : "قطط" ,
+                "labelEn" : "cats" 
+            },
+            {
+                "labelAr" : "كلاب" ,
+                "labelEn" : "dogs" 
+            },
+            {
+                "labelAr" : "مواشي" ,
+                "labelEn" : "cattles" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "قابل للبدل" ,
+        "labelEn" : "Exchangeable" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes" 
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes" 
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no" 
+            }
+        ]
+    }
+]

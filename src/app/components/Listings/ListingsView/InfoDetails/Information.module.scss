@@ -1,0 +1,25 @@
+.InfoDetails {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    width: 100%;
+    background-color: rgba(#00ACEE, 0.1);
+    border-radius: 10px;
+
+    &__Item:nth-child(odd) {
+        background-color: #3A9BB612
+    }
+
+    &__Item:nth-child(even) {
+        background-color: #FFFFFF;
+    }
+
+    @media screen and (max-width: 768px) {
+        padding: 20px;
+
+
+        &__Item{
+            width: 100%;
+        }
+    }
+}

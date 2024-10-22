@@ -1,0 +1,49 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "وصلات وكوابل" ,
+                "labelEn" : "Connectors and cables" 
+            },
+            {
+                "labelAr" : "مقابس" ,
+                "labelEn" : "Sockets" 
+            },
+            {
+                "labelAr" : "مولدات" ,
+                "labelEn" : "Generators" 
+            },
+            {
+                "labelAr" : "ريموتات" ,
+                "labelEn" : "Remotes" 
+            },
+            {
+                "labelAr" : "قطع غيار" ,
+                "labelEn" : "spare parts" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

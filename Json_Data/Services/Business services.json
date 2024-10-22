@@ -1,0 +1,22 @@
+[
+    {
+        "labelAr" : "نوع الخدمة" ,
+        "labelEn" : "service type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "تأسيس شركات" ,
+                "labelEn" : "corporates incorporation" 
+            },
+            {
+                "labelAr" : "تخليص معاملات" ,
+                "labelEn" : "transactions clearance" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+
+        ]
+    }
+]

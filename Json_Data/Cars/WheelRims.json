@@ -1,0 +1,257 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "كوشوك" ,
+                "labelEn" : "Kushuk" 
+            },
+            {
+                "labelAr" : "جنط" ,
+                "labelEn" : "Rims" 
+            },
+            {
+                "labelAr" : "طاسة" ,
+                "labelEn" : "goblet" 
+            },
+            {
+                "labelAr" : "طاسة مع كوشوك" ,
+                "labelEn" : "goblet with kushok" 
+            },
+            {
+                "labelAr" : "جنط مع كوشوك" ,
+                "labelEn" : "Rims with wheels" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "المقاس" ,
+        "labelEn" : "size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "Brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أتلاندر" ,
+                "labelEn" : "atlander" 
+            },
+            {
+                "labelAr" : "أفون" ,
+                "labelEn" : "avon" 
+            },
+            {
+                "labelAr" : "أوز" ,
+                "labelEn" : "oz" 
+            },
+            {
+                "labelAr" : "اوزكا" ,
+                "labelEn" : "ozka" 
+            },
+            {
+                "labelAr" : "ايولوس" ,
+                "labelEn" : "aeolus" 
+            },
+            {
+                "labelAr" : "باور كينج" ,
+                "labelEn" : "powerking" 
+            },
+            {
+                "labelAr" : "بريد" ,
+                "labelEn" : "braid" 
+            },
+            {
+                "labelAr" : "بريدجستون" ,
+                "labelEn" : "bridgestone" 
+            },
+            {
+                "labelAr" : "بلاك بير" ,
+                "labelEn" : "black bear" 
+            },
+            {
+                "labelAr" : "بلاك ريون" ,
+                "labelEn" : "black rhion" 
+            },
+            {
+                "labelAr" : "بي اف قودريتش" ,
+                "labelEn" : "bfgoodrich" 
+            },
+            {
+                "labelAr" : "بيريللي" ,
+                "labelEn" : "pirelli" 
+            },
+            {
+                "labelAr" : "تويو" ,
+                "labelEn" : "toyo" 
+            },
+            {
+                "labelAr" : "جنرال تاير" ,
+                "labelEn" : "general tire" 
+            },
+            {
+                "labelAr" : "جوديير" ,
+                "labelEn" : "goodyear" 
+            },
+            {
+                "labelAr" : "دنلوب" ,
+                "labelEn" : "dunlop" 
+            },
+            {
+                "labelAr" : "ديبيكا" ,
+                "labelEn" : "debica" 
+            },
+            {
+                "labelAr" : "ديك سيبيك" ,
+                "labelEn" : "dick cepek" 
+            },
+            {
+                "labelAr" : "ريكن" ,
+                "labelEn" : "riken" 
+            },
+            {
+                "labelAr" : "سايرس" ,
+                "labelEn" : "cyrus" 
+            },
+            {
+                "labelAr" : "سوميتومو" ,
+                "labelEn" : "sumitomo" 
+            },
+            {
+                "labelAr" : "صني" ,
+                "labelEn" : "sunny" 
+            },
+            {
+                "labelAr" : "فار رود" ,
+                "labelEn" : "farroad" 
+            },
+            {
+                "labelAr" : "فالكون" ,
+                "labelEn" : "falken" 
+            },
+            {
+                "labelAr" : "فايرستون" ,
+                "labelEn" : "firestone" 
+            },
+            {
+                "labelAr" : "فريدشتاين" ,
+                "labelEn" : "vredestein" 
+            },
+            {
+                "labelAr" : "فل رن" ,
+                "labelEn" : "fullrun" 
+            },
+            {
+                "labelAr" : "كوبر" ,
+                "labelEn" : "cooper" 
+            },
+            {
+                "labelAr" : "كومهو" ,
+                "labelEn" : "kumho" 
+            },
+            {
+                "labelAr" : "كونتيننتل" ,
+                "labelEn" : "continental" 
+            },
+            {
+                "labelAr" : "لاسا" ,
+                "labelEn" : "lassa" 
+            },
+            {
+                "labelAr" : "لاند سبايدر" ,
+                "labelEn" : "landspider" 
+            },
+            {
+                "labelAr" : "لوفن" ,
+                "labelEn" : "laufenn" 
+            },
+            {
+                "labelAr" : "لينج لونج" ,
+                "labelEn" : "linglong" 
+            },
+            {
+                "labelAr" : "مارشال" ,
+                "labelEn" : "marshal" 
+            },
+            {
+                "labelAr" : "ماستر كرافت" ,
+                "labelEn" : "mastaercraft" 
+            },
+            {
+                "labelAr" : "ميثود" ,
+                "labelEn" : "method" 
+            },
+            {
+                "labelAr" : "ميشلين" ,
+                "labelEn" : "michelin" 
+            },
+            {
+                "labelAr" : "نوكيا" ,
+                "labelEn" : "nokia" 
+            },
+            {
+                "labelAr" : "نوكيان" ,
+                "labelEn" : "nokian" 
+            },
+            {
+                "labelAr" : "نيكسين" ,
+                "labelEn" : "nexen" 
+            },
+            {
+                "labelAr" : "هانكوك" ,
+                "labelEn" : "hankook" 
+            },
+            {
+                "labelAr" : "هوزير" ,
+                "labelEn" : "hoosier" 
+            },
+            {
+                "labelAr" : "وانلي" ,
+                "labelEn" : "wanli" 
+            },
+            {
+                "labelAr" : "يوكوهاما" ,
+                "labelEn" : "yokohama" 
+            },
+            {
+                "labelAr" : "يونيرويال" ,
+                "labelEn" : "uniroyal" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes" 
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new" 
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used" 
+            }
+        ]
+    }
+]

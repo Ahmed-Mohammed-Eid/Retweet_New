@@ -1,0 +1,262 @@
+[
+  {
+    "labelAr": "أبل",
+    "labelEn": "Apple"
+  },
+  {
+    "labelAr": "سامسونج",
+    "labelEn": "Samsung"
+  },
+  {
+    "labelAr": "هواوي",
+    "labelEn": "Huawei"
+  },
+  {
+    "labelAr": "شاومي",
+    "labelEn": "Xiaomi"
+  },
+  {
+    "labelAr": "أوبو",
+    "labelEn": "Oppo"
+  },
+  {
+    "labelAr": "ريلمي",
+    "labelEn": "Realme"
+  },
+  {
+    "labelAr": "نوكيا",
+    "labelEn": "Nokia"
+  },
+  {
+    "labelAr": "جوجل",
+    "labelEn": "Google"
+  },
+  {
+    "labelAr": "سوني",
+    "labelEn": "Sony"
+  },
+  {
+    "labelAr": "إتش تي سي",
+    "labelEn": "HTC"
+  },
+  {
+    "labelAr": "لينوفو",
+    "labelEn": "Lenovo"
+  },
+  {
+    "labelAr": "إتش بي",
+    "labelEn": "HP"
+  },
+  {
+    "labelAr": "ديل",
+    "labelEn": "Dell"
+  },
+  {
+    "labelAr": "أيسر",
+    "labelEn": "Acer"
+  },
+  {
+    "labelAr": "أسوس",
+    "labelEn": "Asus"
+  },
+  {
+    "labelAr": "مايكروسوفت",
+    "labelEn": "Microsoft"
+  },
+  {
+    "labelAr": "إل جي",
+    "labelEn": "LG"
+  },
+  {
+    "labelAr": "بلاك بيري",
+    "labelEn": "BlackBerry"
+  },
+  {
+    "labelAr": "تكنو",
+    "labelEn": "Tecno"
+  },
+  {
+    "labelAr": "إنفينكس",
+    "labelEn": "Infinix"
+  },
+  {
+    "labelAr": "هونر",
+    "labelEn": "Honor"
+  },
+  {
+    "labelAr": "فيفو",
+    "labelEn": "Vivo"
+  },
+  {
+    "labelAr": "موتورولا",
+    "labelEn": "Motorola"
+  },
+  {
+    "labelAr": "ألكاتيل",
+    "labelEn": "Alcatel"
+  },
+  {
+    "labelAr": "تي سي ال",
+    "labelEn": "TCL"
+  },
+  {
+    "labelAr": "سيمفوني",
+    "labelEn": "Symphony"
+  },
+  {
+    "labelAr": "وان بلس",
+    "labelEn": "OnePlus"
+  },
+  {
+    "labelAr": "ريدمي",
+    "labelEn": "Redmi"
+  },
+  {
+    "labelAr": "ريلمي",
+    "labelEn": "Realme"
+  },
+  {
+    "labelAr": "نوكيا",
+    "labelEn": "Nokia"
+  },
+  {
+    "labelAr": "جوجل",
+    "labelEn": "Google"
+  },
+  {
+    "labelAr": "سوني",
+    "labelEn": "Sony"
+  },
+  {
+    "labelAr": "إتش تي سي",
+    "labelEn": "HTC"
+  },
+  {
+    "labelAr": "لينوفو",
+    "labelEn": "Lenovo"
+  },
+  {
+    "labelAr": "إتش بي",
+    "labelEn": "HP"
+  },
+  {
+    "labelAr": "ديل",
+    "labelEn": "Dell"
+  },
+  {
+    "labelAr": "أيسر",
+    "labelEn": "Acer"
+  },
+  {
+    "labelAr": "أسوس",
+    "labelEn": "Asus"
+  },
+  {
+    "labelAr": "مايكروسوفت",
+    "labelEn": "Microsoft"
+  },
+  {
+    "labelAr": "إل جي",
+    "labelEn": "LG"
+  },
+  {
+    "labelAr": "بلاك بيري",
+    "labelEn": "BlackBerry"
+  },
+  {
+    "labelAr": "تكنو",
+    "labelEn": "Tecno"
+  },
+  {
+    "labelAr": "إنفينكس",
+    "labelEn": "Infinix"
+  },
+  {
+    "labelAr": "هونر",
+    "labelEn": "Honor"
+  },
+  {
+    "labelAr": "فيفو",
+    "labelEn": "Vivo"
+  },
+  {
+    "labelAr": "موتورولا",
+    "labelEn": "Motorola"
+  },
+  {
+    "labelAr": "ألكاتيل",
+    "labelEn": "Alcatel"
+  },
+  {
+    "labelAr": "تي سي ال",
+    "labelEn": "TCL"
+  },
+  {
+    "labelAr": "سيمفوني",
+    "labelEn": "Symphony"
+  },
+  {
+    "labelAr": "وان بلس",
+    "labelEn": "OnePlus"
+  },
+  {
+    "labelAr": "ريدمي",
+    "labelEn": "Redmi"
+  },
+  {
+    "labelAr": "ريلمي",
+    "labelEn": "Realme"
+  },
+  {
+    "labelAr": "نوكيا",
+    "labelEn": "Nokia"
+  },
+  {
+    "labelAr": "جوجل",
+    "labelEn": "Google"
+  },
+  {
+    "labelAr": "سوني",
+    "labelEn": "Sony"
+  },
+  {
+    "labelAr": "إتش تي سي",
+    "labelEn": "HTC"
+  },
+  {
+    "labelAr": "لينوفو",
+    "labelEn": "Lenovo"
+  },
+  {
+    "labelAr": "إتش بي",
+    "labelEn": "HP"
+  },
+  {
+    "labelAr": "ديل",
+    "labelEn": "Dell"
+  },
+  {
+    "labelAr": "أيسر",
+    "labelEn": "Acer"
+  },
+  {
+    "labelAr": "أسوس",
+    "labelEn": "Asus"
+  },
+  {
+    "labelAr": "مايكروسوفت",
+    "labelEn": "Microsoft"
+  },
+  {
+    "labelAr": "إل جي",
+    "labelEn": "LG"
+  },
+  {
+    "labelAr": "بلاك بيري",
+    "labelEn": "BlackBerry"
+  },
+  {
+    "labelAr": "أخرى",
+    "labelEn": "Other"
+  }
+]

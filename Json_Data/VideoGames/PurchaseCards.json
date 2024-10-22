@@ -1,0 +1,75 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "آي تيونز" ,
+                "labelEn" : "Itunes" 
+            },
+            {
+                "labelAr" : "جوجل بلاي" ,
+                "labelEn" : "google play" 
+            },
+            {
+                "labelAr" : "بلايستيشن" ,
+                "labelEn" : "playstation" 
+            },
+            {
+                "labelAr" : "فورتنايت" ,
+                "labelEn" : "fortnite" 
+            },
+            {
+                "labelAr" : "إكس بوكس" ,
+                "labelEn" : "xbox" 
+            },
+            {
+                "labelAr" : "ستيم" ,
+                "labelEn" : "steam" 
+            },
+            {
+                "labelAr" : "فري فاير" ,
+                "labelEn" : "free fire" 
+            },
+            {
+                "labelAr" : "ريزر جولد" ,
+                "labelEn" : "Razer Gold" 
+            },
+            {
+                "labelAr" : "ببجي" ,
+                "labelEn" : "PUPG" 
+            },
+            {
+                "labelAr" : "أمازون" ,
+                "labelEn" : "amazon" 
+            },
+            {
+                "labelAr" : "نتفليكس" ,
+                "labelEn" : "Netflix" 
+            },
+            {
+                "labelAr" : "جواكر" ,
+                "labelEn" : "Jawaker" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "Yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "No"
+            }
+        ]
+    }
+]

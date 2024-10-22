@@ -1,0 +1,13 @@
+.SecondaryNavigation {
+    background-color: rgba(242, 244, 245, 1);
+    border-radius: 10px;
+
+    a{
+        color: rgba(95, 108, 114, 1);
+        transition: all 0.15s ease-in-out;
+
+        &:hover{
+            color: rgba(0, 172, 238, 1)
+        }
+    }
+}

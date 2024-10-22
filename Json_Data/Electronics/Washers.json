@@ -1,0 +1,305 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "AEG" ,
+                "labelEn" : "AEG"
+            },
+            {
+                "labelAr" : "DLC" ,
+                "labelEn" : "DLC"
+            },
+            {
+                "labelAr" : "إيزولا" ,
+                "labelEn" : "izola"
+            },
+            {
+                "labelAr" : "اريستون" ,
+                "labelEn" : "ariston"
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "الحافظ" ,
+                "labelEn" : "alhafidh"
+            },
+            {
+                "labelAr" : "الكترولكس" ,
+                "labelEn" : "electrolux"
+            },
+            {
+                "labelAr" : "اندست" ,
+                "labelEn" : "indesit"
+            },
+            {
+                "labelAr" : "ايجنيس" ,
+                "labelEn" : "ignis"
+            },
+            {
+                "labelAr" : "بلاك اند ديكر" ,
+                "labelEn" : "black & decker"
+            },
+            {
+                "labelAr" : "بلوماتيك" ,
+                "labelEn" : "blumatic"
+            },
+            {
+                "labelAr" : "بلومبيرغ" ,
+                "labelEn" : "blomberg"
+            },
+            {
+                "labelAr" : "بينكون" ,
+                "labelEn" : "benkon"
+            },
+            {
+                "labelAr" : "بوش" ,
+                "labelEn" : "bosch"
+            },
+            {
+                "labelAr" : "بومباني" ,
+                "labelEn" : "bompani"
+            },
+            {
+                "labelAr" : "بيكو" ,
+                "labelEn" : "beko"
+            },
+            {
+                "labelAr" : "تكنو" ,
+                "labelEn" : "techno"
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba"
+            },
+            {
+                "labelAr" : "تيكا" ,
+                "labelEn" : "teka"
+            },
+            {
+                "labelAr" : "تومسون" ,
+                "labelEn" : "thomson"
+            },
+            {
+                "labelAr" : "جراند" ,
+                "labelEn" : "grand"
+            },
+            {
+                "labelAr" : "جنرال ديلوكس" ,
+                "labelEn" : "general deluxe"
+            },
+            {
+                "labelAr" : "جورينيه" ,
+                "labelEn" : "gorenje"
+            },
+            {
+                "labelAr" : "جولد سكاي" ,
+                "labelEn" : "goldsky"
+            },
+            {
+                "labelAr" : "جينرال إليكتريك" ,
+                "labelEn" : "general electric"
+            },
+            {
+                "labelAr" : "دايو" ,
+                "labelEn" : "daewoo"
+            },
+            {
+                "labelAr" : "زانوسي" ,
+                "labelEn" : "zanussi"
+            },
+            {
+                "labelAr" : "زوجور" ,
+                "labelEn" : "zogor"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "سيلفر لاين" ,
+                "labelEn" : "silverline"
+            },
+            {
+                "labelAr" : "سيزلر" ,
+                "labelEn" : "sizzler"
+            },
+            {
+                "labelAr" : "سيمينز" ,
+                "labelEn" : "siemens"
+            },
+            {
+                "labelAr" : "شارب" ,
+                "labelEn" : "sharp"
+            },
+            {
+                "labelAr" : "شولتز" ,
+                "labelEn" : "scholtes"
+            },
+            {
+                "labelAr" : "فاجور" ,
+                "labelEn" : "fagor"
+            },
+            {
+                "labelAr" : "فريجيدير" ,
+                "labelEn" : "frigidaire"
+            },
+            {
+                "labelAr" : "فيستيل" ,
+                "labelEn" : "vestel"
+            },
+            {
+                "labelAr" : "فولجور" ,
+                "labelEn" : "fulgor"
+            },
+            {
+                "labelAr" : "كاتا" ,
+                "labelEn" : "cata"
+            },
+            {
+                "labelAr" : "كاندي" ,
+                "labelEn" : "candy"
+            },
+            {
+                "labelAr" : "كرفت" ,
+                "labelEn" : "crafft"
+            },
+            {
+                "labelAr" : "كونتي" ,
+                "labelEn" : "conti"
+            },
+            {
+                "labelAr" : "كيتشن ايد" ,
+                "labelEn" : "kitchenaid"
+            },
+            {
+                "labelAr" : "كينوود" ,
+                "labelEn" : "kenwood"
+            },
+            {
+                "labelAr" : "ماتركس" ,
+                "labelEn" : "matrix"
+            },
+            {
+                "labelAr" : "ماجيك شيف" ,
+                "labelEn" : "magic chef"
+            },
+            {
+                "labelAr" : "مايتاج" ,
+                "labelEn" : "maytag"
+            },
+            {
+                "labelAr" : "ملتو باور" ,
+                "labelEn" : "melto power"
+            },
+            {
+                "labelAr" : "ميديا" ,
+                "labelEn" : "midea"
+            },
+            {
+                "labelAr" : "ميلي" ,
+                "labelEn" : "miele"
+            },
+            {
+                "labelAr" : "ناشونال الكتريك" ,
+                "labelEn" : "national electric"
+            },
+            {
+                "labelAr" : "ناشونال سونيك" ,
+                "labelEn" : "national sonic"
+            },
+            {
+                "labelAr" : "نورج" ,
+                "labelEn" : "norge"
+            },
+            {
+                "labelAr" : "نيوتن" ,
+                "labelEn" : "newton"
+            },
+            {
+                "labelAr" : "هايسنس" ,
+                "labelEn" : "hisense"
+            },
+            {
+                "labelAr" : "هوفر" ,
+                "labelEn" : "hoover"
+            },
+            {
+                "labelAr" : "وانسا" ,
+                "labelEn" : "wansa"
+            },
+            {
+                "labelAr" : "ويرلبول" ,
+                "labelEn" : "whirlpool"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "السعة" ,
+        "labelEn" : "Capacity" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "6 أطقم" ,
+                "labelEn" : "6 Kits"
+            },
+            {
+                "labelAr" : "8 أطقم" ,
+                "labelEn" : "8 Kits"
+            },
+            {
+                "labelAr" : "10 أطقم" ,
+                "labelEn" : "10 Kits"
+            },
+            {
+                "labelAr" : "12 أطقم" ,
+                "labelEn" : "12 Kits"
+            },
+            {
+                "labelAr" : "14+ أطقم" ,
+                "labelEn" : "14+ Kits"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "Yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "No"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

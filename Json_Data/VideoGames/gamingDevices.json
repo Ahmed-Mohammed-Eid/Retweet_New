@@ -1,0 +1,110 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بلايستيشن 5" ,
+                "labelEn" : "playstation 5" 
+            },
+            {
+                "labelAr" : "بلايستيشن 4" ,
+                "labelEn" : "playstation 4" 
+            },
+            {
+                "labelAr" : "بلايستيشن 3" ,
+                "labelEn" : "playstation 3" 
+            },
+            {
+                "labelAr" : "بلايستيشن 2" ,
+                "labelEn" : "playstation 2" 
+            },
+            {
+                "labelAr" : "بلايستيشن 1" ,
+                "labelEn" : "playstation 1" 
+            },
+            {
+                "labelAr" : "بي اس بي - فيتا" ,
+                "labelEn" : "psp - vita" 
+            },
+            {
+                "labelAr" : "بلايستيشن 4 برو" ,
+                "labelEn" : "playstation 4 pro" 
+            },
+            {
+                "labelAr" : "اكس بوكس سيريس اكس" ,
+                "labelEn" : "xbox series x" 
+            },
+            {
+                "labelAr" : "اكس بوكس سيريس اس" ,
+                "labelEn" : "xbox series s" 
+            },
+            {
+                "labelAr" : "اكس بوكس ون" ,
+                "labelEn" : "xbox one" 
+            },
+            {
+                "labelAr" : "اكس بوكس 360" ,
+                "labelEn" : "xbox 360" 
+            },
+            {
+                "labelAr" : "اكس بوكس ون اس" ,
+                "labelEn" : "xbox one s" 
+            },
+            {
+                "labelAr" : "اكس بوكس ون اكس" ,
+                "labelEn" : "xbox one x" 
+            },
+            {
+                "labelAr" : "نينتندو وي" ,
+                "labelEn" : "nintendo wii" 
+            },
+            {
+                "labelAr" : "نينتندو وي يو" ,
+                "labelEn" : "nintendo wii u" 
+            },
+            {
+                "labelAr" : "3DS نينتندو" ,
+                "labelEn" : "3ds nintendo" 
+            },
+            {
+                "labelAr" : "نينتندو سويتش" ,
+                "labelEn" : "nintendo switch" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

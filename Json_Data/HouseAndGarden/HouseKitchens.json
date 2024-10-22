@@ -1,0 +1,35 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "مطابخ" ,
+                "labelEn" : "Kitchens" 
+            },
+            {
+                "labelAr" : "اكسسوارات" ,
+                "labelEn" : "accessories" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "Yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "No"
+            }
+        ]
+    }
+]

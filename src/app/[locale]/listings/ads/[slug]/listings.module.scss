@@ -1,0 +1,28 @@
+.ContentContainer{
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+
+    .Filter{
+        // col-span-2
+        grid-column: span 2;
+    }
+
+    .Cards{
+        // col-span-5
+        grid-column: span 5;
+    }
+
+    @media screen and (max-width: 1200px){
+        // HIDE FILTERS
+        .Filter{
+            display: none;
+        }
+
+        // SHOW CONTENT WITH FULL WIDTH
+        .Cards{
+            grid-column: span 7;
+        }
+    }
+}

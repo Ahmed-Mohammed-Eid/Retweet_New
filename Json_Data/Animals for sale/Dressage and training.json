@@ -1,0 +1,29 @@
+[
+{
+    "labelAr" : "النوع" ,
+    "labelEn" : "type" ,
+    "Values" : 
+    [
+        {
+            "labelAr" : "تدريب كلاب" ,
+            "labelEn" : "dog training" 
+        },
+        {
+            "labelAr" : "تدريب قطط" ,
+            "labelEn" : "cats training" 
+        },
+        {
+            "labelAr" : "تدريب خيول" ,
+            "labelEn" : "horses training" 
+        },
+        {
+            "labelAr" : "تدريب طيور" ,
+            "labelEn" : "birds training" 
+        },
+        {
+            "labelAr" : "أخرى" ,
+            "labelEn" : "other" 
+        }
+    ]
+}
+]

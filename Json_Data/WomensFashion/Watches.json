@@ -1,0 +1,445 @@
+[
+    {
+        "labelAr" : "ماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "D1 ميلانو" ,
+                "labelEn" : "d1 milano" 
+            },
+            {
+                "labelAr" : "MTM" ,
+                "labelEn" : "MTM" 
+            },
+            {
+                "labelAr" : "MVMT" ,
+                "labelEn" : "MVMT" 
+            },
+            {
+                "labelAr" : "Q&Q" ,
+                "labelEn" : "Q&Q" 
+            },
+            {
+                "labelAr" : "آلبا" ,
+                "labelEn" : "alba" 
+            },
+            {
+                "labelAr" : "آيك" ,
+                "labelEn" : "aike" 
+            },
+            {
+                "labelAr" : "أديداس" ,
+                "labelEn" : "adidas" 
+            },
+            {
+                "labelAr" : "أوديمار بيغت" ,
+                "labelEn" : "audemars piguet" 
+            },
+            {
+                "labelAr" : "أورينت" ,
+                "labelEn" : "orient" 
+            },
+            {
+                "labelAr" : "أوليفيا بورتون" ,
+                "labelEn" : "olivia burton" 
+            },
+            {
+                "labelAr" : "إسبريت" ,
+                "labelEn" : "esprit" 
+            },
+            {
+                "labelAr" : "اكيورت" ,
+                "labelEn" : "accurate" 
+            },
+            {
+                "labelAr" : "امبوريو آرماني" ,
+                "labelEn" : "emporio armani" 
+            },
+            {
+                "labelAr" : "انفيكتا" ,
+                "labelEn" : "invicta" 
+            },
+            {
+                "labelAr" : "اوليفيرا" ,
+                "labelEn" : "olivera" 
+            },
+            {
+                "labelAr" : "اوماكس" ,
+                "labelEn" : "omax" 
+            },
+            {
+                "labelAr" : "اوميغا" ,
+                "labelEn" : "omega" 
+            },
+            {
+                "labelAr" : "ايجنر" ,
+                "labelEn" : "aigner" 
+            },
+            {
+                "labelAr" : "ايفرلاست" ,
+                "labelEn" : "everlast" 
+            },
+            {
+                "labelAr" : "بريتلينغ" ,
+                "labelEn" : "breitling" 
+            },
+            {
+                "labelAr" : "بريل" ,
+                "labelEn" : "breil" 
+            },
+            {
+                "labelAr" : "بورش" ,
+                "labelEn" : "porsche" 
+            },
+            {
+                "labelAr" : "بولغاري" ,
+                "labelEn" : "bvlgari" 
+            },
+            {
+                "labelAr" : "بوما" ,
+                "labelEn" : "puma" 
+            },
+            {
+                "labelAr" : "بيربيري" ,
+                "labelEn" : "burberry" 
+            },
+            {
+                "labelAr" : "بيير ميلار" ,
+                "labelEn" : "pierre miller" 
+            },
+            {
+                "labelAr" : "تاغ هوير" ,
+                "labelEn" : "tag heuer" 
+            },
+            {
+                "labelAr" : "تايمكس" ,
+                "labelEn" : "timex" 
+            },
+            {
+                "labelAr" : "تومي هيلفيغر" ,
+                "labelEn" : "tommy hlifiger" 
+            },
+            {
+                "labelAr" : "تيسو" ,
+                "labelEn" : "tissot" 
+            },
+            {
+                "labelAr" : "جاكوار" ,
+                "labelEn" : "jaguar" 
+            },
+            {
+                "labelAr" : "جست كافالي" ,
+                "labelEn" : "just cavall" 
+            },
+            {
+                "labelAr" : "جوتشي" ,
+                "labelEn" : "gucci" 
+            },
+            {
+                "labelAr" : "جورجيو آرماني" ,
+                "labelEn" : "giorgio armani" 
+            },
+            {
+                "labelAr" : "جي شوك" ,
+                "labelEn" : "g-shock" 
+            },
+            {
+                "labelAr" : "جيس" ,
+                "labelEn" : "guess" 
+            },
+            {
+                "labelAr" : "دانييل كلاين" ,
+                "labelEn" : "daniel klein" 
+            },
+            {
+                "labelAr" : "دولتشي اند غابانا" ,
+                "labelEn" : "dolce and gabbana" 
+            },
+            {
+                "labelAr" : "دي كيه ان واي" ,
+                "labelEn" : "dkny" 
+            },
+            {
+                "labelAr" : "ديزل" ,
+                "labelEn" : "diesel" 
+            },
+            {
+                "labelAr" : "رادو" ,
+                "labelEn" : "rado" 
+            },
+            {
+                "labelAr" : "رايموند ويل" ,
+                "labelEn" : "raymond weil" 
+            },
+            {
+                "labelAr" : "رولكس" ,
+                "labelEn" : "rolex" 
+            },
+            {
+                "labelAr" : "زايروس" ,
+                "labelEn" : "zyros" 
+            },
+            {
+                "labelAr" : "سانتا باربارا بولو" ,
+                "labelEn" : "santa barbara polo" 
+            },
+            {
+                "labelAr" : "ستيزين" ,
+                "labelEn" : "citizen" 
+            },
+            {
+                "labelAr" : "سكوديريا فيراري" ,
+                "labelEn" : "scuderia ferrari" 
+            },
+            {
+                "labelAr" : "سكيمي" ,
+                "labelEn" : "skmei" 
+            },
+            {
+                "labelAr" : "سلازنجر" ,
+                "labelEn" : "slazenger" 
+            },
+            {
+                "labelAr" : "سمالتو" ,
+                "labelEn" : "smalto" 
+            },
+            {
+                "labelAr" : "سواتش" ,
+                "labelEn" : "swatch" 
+            },
+            {
+                "labelAr" : "سونتو" ,
+                "labelEn" : "suunto" 
+            },
+            {
+                "labelAr" : "سويس ارمي" ,
+                "labelEn" : "swiss army" 
+            },
+            {
+                "labelAr" : "سيجا" ,
+                "labelEn" : "ciga" 
+            },
+            {
+                "labelAr" : "سيرتينا" ,
+                "labelEn" : "certina" 
+            },
+            {
+                "labelAr" : "سيكتور" ,
+                "labelEn" : "sector" 
+            },
+            {
+                "labelAr" : "سيكو" ,
+                "labelEn" : "seiko" 
+            },
+            {
+                "labelAr" : "شاكسيجو" ,
+                "labelEn" : "chaxigo" 
+            },
+            {
+                "labelAr" : "شيروتي" ,
+                "labelEn" : "cerruti" 
+            },
+            {
+                "labelAr" : "فرانك مولر" ,
+                "labelEn" : "frank muller" 
+            },
+            {
+                "labelAr" : "فري لوك" ,
+                "labelEn" : "freelook" 
+            },
+            {
+                "labelAr" : "فندي" ,
+                "labelEn" : "fendi" 
+            },
+            {
+                "labelAr" : "فوسيل" ,
+                "labelEn" : "fossil" 
+            },
+            {
+                "labelAr" : "فيرزاتشي" ,
+                "labelEn" : "versace" 
+            },
+            {
+                "labelAr" : "فيروتشي" ,
+                "labelEn" : "ferrucci" 
+            },
+            {
+                "labelAr" : "فيري ميلانو" ,
+                "labelEn" : "ferre milano" 
+            },
+            {
+                "labelAr" : "كارتيير" ,
+                "labelEn" : "cartier" 
+            },
+            {
+                "labelAr" : "كاسيو" ,
+                "labelEn" : "casio" 
+            },
+            {
+                "labelAr" : "كالفن كلاين" ,
+                "labelEn" : "calvin klein" 
+            },
+            {
+                "labelAr" : "كريو" ,
+                "labelEn" : "creo" 
+            },
+            {
+                "labelAr" : "كوتش" ,
+                "labelEn" : "coach" 
+            },
+            {
+                "labelAr" : "لاكوست" ,
+                "labelEn" : "lacost" 
+            },
+            {
+                "labelAr" : "لومينوكس" ,
+                "labelEn" : "luminox" 
+            },
+            {
+                "labelAr" : "لويس فيتون" ,
+                "labelEn" : "louis vuitton" 
+            },
+            {
+                "labelAr" : "مازاراتي" ,
+                "labelEn" : "maserati" 
+            },
+            {
+                "labelAr" : "مايكل كورس" ,
+                "labelEn" : "michael kors" 
+            },
+            {
+                "labelAr" : "موفادو" ,
+                "labelEn" : "movado" 
+            },
+            {
+                "labelAr" : "ميشيل هيربلين" ,
+                "labelEn" : "michel herbelin" 
+            },
+            {
+                "labelAr" : "ميما" ,
+                "labelEn" : "mema" 
+            },
+            {
+                "labelAr" : "نافي فورس" ,
+                "labelEn" : "naviforce" 
+            },
+            {
+                "labelAr" : "هوبلت" ,
+                "labelEn" : "hublot" 
+            },
+            {
+                "labelAr" : "هيوغو بوس" ,
+                "labelEn" : "hugo boss" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "اللون" ,
+        "labelEn" : "color" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "آلية عمل الماكنة" ,
+        "labelEn" : "How the machine works" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "عقارب" ,
+                "labelEn" : "analog quartz" 
+            },
+            {
+                "labelAr" : "رقمية - ديجيتال" ,
+                "labelEn" : "digital" 
+            },
+            {
+                "labelAr" : "عقارب مع ديجيتال" ,
+                "labelEn" : "analog & digital" 
+            },
+            {
+                "labelAr" : "أوتوماتيك" ,
+                "labelEn" : "automatic" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "حجم الهيكل" ,
+        "labelEn" : "Structure size" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "XS (20-25mm )" ,
+                "labelEn" : "XS (20-25mm )" 
+            },
+            {
+                "labelAr" : "S ( 26-32mm )" ,
+                "labelEn" : "S ( 26-32mm )" 
+            },
+            {
+                "labelAr" : "M ( 33-41mm )" ,
+                "labelEn" : "M ( 33-41mm )" 
+            },
+            {
+                "labelAr" : "XL ( 48-57mm )" ,
+                "labelEn" : "XL ( 48-57mm )" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "نوع الكستك" ,
+        "labelEn" : "The type of cup" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "معدني" ,
+                "labelEn" : "metal" 
+            },
+            {
+                "labelAr" : "جلد" ,
+                "labelEn" : "leather" 
+            },
+            {
+                "labelAr" : "مطاط - بلاستيك مرن" ,
+                "labelEn" : "rubber / resin" 
+            },
+            {
+                "labelAr" : "قماش" ,
+                "labelEn" : "fabric" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

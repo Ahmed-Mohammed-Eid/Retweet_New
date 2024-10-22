@@ -1,0 +1,130 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "OSN" ,
+                "labelEn" : "OSN"
+            },
+            {
+                "labelAr" : "beIN" ,
+                "labelEn" : "beIN"
+            },
+            {
+                "labelAr" : "أستر" ,
+                "labelEn" : "aster"
+            },
+            {
+                "labelAr" : "الجويل" ,
+                "labelEn" : "al jewel"
+            },
+            {
+                "labelAr" : "انفنيتي" ,
+                "labelEn" : "infinity"
+            },
+            {
+                "labelAr" : "ايكون" ,
+                "labelEn" : "icone"
+            },
+            {
+                "labelAr" : "بروفيسور" ,
+                "labelEn" : "professor"
+            },
+            {
+                "labelAr" : "تايجر" ,
+                "labelEn" : "tiger"
+            },
+            {
+                "labelAr" : "جولدن بوكس" ,
+                "labelEn" : "golden box"
+            },
+            {
+                "labelAr" : "جي جارد" ,
+                "labelEn" : "g-guard"
+            },
+            {
+                "labelAr" : "سبايدر" ,
+                "labelEn" : "spider"
+            },
+            {
+                "labelAr" : "ستار تراك" ,
+                "labelEn" : "star track"
+            },
+            {
+                "labelAr" : "ستار جولد" ,
+                "labelEn" : "stargold"
+            },
+            {
+                "labelAr" : "ستارسات" ,
+                "labelEn" : "starsat"
+            },
+            {
+                "labelAr" : "سترونج" ,
+                "labelEn" : "strong"
+            },
+            {
+                "labelAr" : "سنايبر" ,
+                "labelEn" : "sniper"
+            },
+            {
+                "labelAr" : "غزال" ,
+                "labelEn" : "gazal"
+            },
+            {
+                "labelAr" : "ماجيستيك" ,
+                "labelEn" : "magistic"
+            },
+            {
+                "labelAr" : "ماجيك" ,
+                "labelEn" : "magic"
+            },
+            {
+                "labelAr" : "ميديا ستار" ,
+                "labelEn" : "mediastar"
+            },
+            {
+                "labelAr" : "نوكيا" ,
+                "labelEn" : "nokia"
+            },
+            {
+                "labelAr" : "هيوماكس" ,
+                "labelEn" : "humax"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

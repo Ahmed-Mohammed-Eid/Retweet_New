@@ -1,0 +1,165 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "زيروكس" ,
+                "labelEn" : "xerox"
+            },
+            {
+                "labelAr" : "اتش بي" ,
+                "labelEn" : "hp"
+            },
+            {
+                "labelAr" : "ايبسون" ,
+                "labelEn" : "epson"
+            },
+            {
+                "labelAr" : "ريكو" ,
+                "labelEn" : "ricoh"
+            },
+            {
+                "labelAr" : "كانون" ,
+                "labelEn" : "canon"
+            },
+            {
+                "labelAr" : "باناسونيك" ,
+                "labelEn" : "panasonic"
+            },
+            {
+                "labelAr" : "رولو" ,
+                "labelEn" : "rollo"
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung"
+            },
+            {
+                "labelAr" : "شارب" ,
+                "labelEn" : "sharp"
+            },
+            {
+                "labelAr" : "فوجي فيلم" ,
+                "labelEn" : "fujifilm"
+            },
+            {
+                "labelAr" : "كوداك" ,
+                "labelEn" : "kodak"
+            },
+            {
+                "labelAr" : "DYMO" ,
+                "labelEn" : "DYMO"
+            },
+            {
+                "labelAr" : "انيت" ,
+                "labelEn" : "anet"
+            },
+            {
+                "labelAr" : "افيشو" ,
+                "labelEn" : "aficio"
+            },
+            {
+                "labelAr" : "اوف نوفا" ,
+                "labelEn" : "offnova"
+            },
+            {
+                "labelAr" : "اوكي" ,
+                "labelEn" : "oki"
+            },
+            {
+                "labelAr" : "بانتوم" ,
+                "labelEn" : "pantum"
+            },
+            {
+                "labelAr" : "بروذر" ,
+                "labelEn" : "brother"
+            },
+            {
+                "labelAr" : "تيفو" ,
+                "labelEn" : "tevo"
+            },
+            {
+                "labelAr" : "ديل" ,
+                "labelEn" : "dell"
+            },
+            {
+                "labelAr" : "رولاند" ,
+                "labelEn" : "roland"
+            },
+            {
+                "labelAr" : "كريالتي" ,
+                "labelEn" : "creality"
+            },
+            {
+                "labelAr" : "كونيكا مينولتا" ,
+                "labelEn" : "konica minolta"
+            },
+            {
+                "labelAr" : "كيوسيرا" ,
+                "labelEn" : "kyocera"
+            },
+            {
+                "labelAr" : "هيتاشي" ,
+                "labelEn" : "hitachi"
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others"
+            }
+        ]
+    },
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "طابعات" ,
+                "labelEn" : "Printers"
+            },
+            {
+                "labelAr" : "سكانر" ,
+                "labelEn" : "Scanner"
+            },
+            {
+                "labelAr" : "طابعة متعددة الاستخدامات" ,
+                "labelEn" : "Versatile printer"
+            },
+            {
+                "labelAr" : "احبار طابعات" ,
+                "labelEn" : "Printer inks"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" :
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

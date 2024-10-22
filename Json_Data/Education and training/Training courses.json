@@ -1,0 +1,108 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "الإدارة" ,
+                "labelEn" : "management" 
+            },
+            {
+                "labelAr" : "التسويق والمبيعات" ,
+                "labelEn" : "sales & marketing" 
+            },
+            {
+                "labelAr" : "الشبكات" ,
+                "labelEn" : "networks" 
+            },
+            {
+                "labelAr" : "الطيران" ,
+                "labelEn" : "aviation" 
+            },
+            {
+                "labelAr" : "العمارة والتصميم الداخلي" ,
+                "labelEn" : "architecture & inetrior design" 
+            },
+            {
+                "labelAr" : "الموارد البشرية" ,
+                "labelEn" : "human resources" 
+            },
+            {
+                "labelAr" : "برمجة التطبيقات والمواقع الإلكترونية" ,
+                "labelEn" : "application & web development" 
+            },
+            {
+                "labelAr" : "برمجة قاعدة البيانات" ,
+                "labelEn" : "database development" 
+            },
+            {
+                "labelAr" : "تجميل" ,
+                "labelEn" : "beauty" 
+            },
+            {
+                "labelAr" : "تصميم" ,
+                "labelEn" : "graphic design" 
+            },
+            {
+                "labelAr" : "حجامة ومساج" ,
+                "labelEn" : "cupping & massage" 
+            },
+            {
+                "labelAr" : "سباحة" ,
+                "labelEn" : "swimming" 
+            },
+            {
+                "labelAr" : "علوم ورعاية صحية" ,
+                "labelEn" : "healthcare" 
+            },
+            {
+                "labelAr" : "قيادة السيارات" ,
+                "labelEn" : "driving courses" 
+            },
+            {
+                "labelAr" : "لغات" ,
+                "labelEn" : "localeuage"
+            },
+            {
+                "labelAr" : "محاسبة" ,
+                "labelEn" : "accounting" 
+            },
+            {
+                "labelAr" : "مصرفية ومالية" ,
+                "labelEn" : "banking & finance" 
+            },
+            {
+                "labelAr" : "موسيقى" ,
+                "labelEn" : "music" 
+            },
+            {
+                "labelAr" : "ميكانيك وصيانة" ,
+                "labelEn" : "mechanics & maintenance" 
+            },
+            {
+                "labelAr" : "هندسة" ,
+                "labelEn" : "engineering" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الموقع" ,
+        "labelEn" : "location" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "عن بعد" ,
+                "labelEn" : "online" 
+            },
+            {
+                "labelAr" : "في الموقع" ,
+                "labelEn" : "in site" 
+            }
+        ]
+    }
+]

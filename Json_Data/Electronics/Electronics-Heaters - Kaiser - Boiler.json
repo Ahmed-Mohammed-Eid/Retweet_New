@@ -1,0 +1,49 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بويلر" ,
+                "labelEn" : "Builer" 
+            },
+            {
+                "labelAr" : "كيزر" ,
+                "labelEn" : "Keizer" 
+            },
+            {
+                "labelAr" : "سخانات شمسية" ,
+                "labelEn" : "Solar heaters" 
+            },
+            {
+                "labelAr" : "خلايا شمسية" ,
+                "labelEn" : "solar cells" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

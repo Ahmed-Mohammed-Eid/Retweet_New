@@ -1,0 +1,98 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أبل" ,
+                "labelEn" : "apple" 
+            },
+            {
+                "labelAr" : "اتش تي سي" ,
+                "labelEn" : "htc" 
+            },
+            {
+                "labelAr" : "ال جي" ,
+                "labelEn" : "lg" 
+            },
+            {
+                "labelAr" : "اميزفيت" ,
+                "labelEn" : "Amezfit" 
+            },
+            {
+                "labelAr" : "اي تاتش" ,
+                "labelEn" : "i-touch" 
+            },
+            {
+                "labelAr" : "تيكووتش" ,
+                "labelEn" : "TechWatch" 
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung" 
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony" 
+            },
+            {
+                "labelAr" : "شاومي" ,
+                "labelEn" : "Xiaomi" 
+            },
+            {
+                "labelAr" : "فيكوشا" ,
+                "labelEn" : "Vicosha" 
+            },
+            {
+                "labelAr" : "موتورولا" ,
+                "labelEn" : "Motorola" 
+            },
+            {
+                "labelAr" : "هواوي" ,
+                "labelEn" : "Huawei" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل - حالة ممتازة" ,
+                "labelEn" : "Used - excellent condition"
+            },
+            {
+                "labelAr" : "مستعمل - حالة جيدة" ,
+                "labelEn" : "Used - good condition"
+            },
+            {
+                "labelAr" : "مستعمل - حالة سيئة" ,
+                "labelEn" : "Used - poor condition"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    }
+]

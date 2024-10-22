@@ -1,0 +1,30 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أبواب" ,
+                "labelEn" : "doors" 
+            },
+            {
+                "labelAr" : "شبابيك" ,
+                "labelEn" : "windows" 
+            },
+            {
+                "labelAr" : "أعمال الحديد - الألمنيوم" ,
+                "labelEn" : "Iron and aluminum works" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    }
+]

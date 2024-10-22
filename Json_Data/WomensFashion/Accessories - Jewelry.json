@@ -1,0 +1,75 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "خواتم" ,
+                "labelEn" : "rings" 
+            },
+            {
+                "labelAr" : "سلسله" ,
+                "labelEn" : "necklaces" 
+            },
+            {
+                "labelAr" : "اساور" ,
+                "labelEn" : "bracelets" 
+            },
+            {
+                "labelAr" : "احجار كريمة" ,
+                "labelEn" : "gemstones" 
+            },
+            {
+                "labelAr" : "تعليقة" ,
+                "labelEn" : "pendants" 
+            },
+            {
+                "labelAr" : "نظارات" ,
+                "labelEn" : "sunglasses" 
+            },
+            {
+                "labelAr" : "عدسات" ,
+                "labelEn" : "eyes contacts" 
+            },
+            {
+                "labelAr" : "إكسسوارات شعر" ,
+                "labelEn" : "hair accessories" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

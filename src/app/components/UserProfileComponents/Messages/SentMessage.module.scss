@@ -1,0 +1,54 @@
+// MESSENGER SENT MESSAGE STYLES
+.sent_message{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #00ACEE;
+    border-radius: 10px;
+    cursor: pointer;
+    max-width: 80%;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+
+    .overflow__arrow{
+        position: absolute;
+        top: 0;
+        left: -10px;
+        width: 25px;
+        height: 40px;
+        clip-path: polygon(100% 0, 0 0, 100% 58%);
+        background-color: #00ACEE;
+    }
+
+    .sent_message_top{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-bottom: 10px;
+
+
+        .sent_message_time{
+            font-size: .8rem;
+            color: #dfdfdf;
+            user-select: none;
+            margin-left: 10px;
+        }
+    }
+
+    .sent_message_bottom{
+        display: flex;
+        justify-content: flex-start;
+        gap: 10px;
+        align-items: center;
+
+        .sent_message_text{
+            font-size: .9rem;
+            color: #ffffff;
+            user-select: none;
+        }
+
+    }
+}

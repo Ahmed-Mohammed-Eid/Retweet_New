@@ -1,0 +1,53 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اجهزة الكي والبخار" ,
+                "labelEn" : "Ironing and steam devices" 
+            },
+            {
+                "labelAr" : "اجهزة تنقية وترطيب الهواء" ,
+                "labelEn" : "Air purification and humidification devices" 
+            },
+            {
+                "labelAr" : "اجهزة قتل الحشرات" ,
+                "labelEn" : "Insect killing devices" 
+            },
+            {
+                "labelAr" : "متفرقات" ,
+                "labelEn" : "Miscellaneous" 
+            },
+            {
+                "labelAr" : "مراوح" ,
+                "labelEn" : "Fans" 
+            },
+            {
+                "labelAr" : "مضخات غسيل" ,
+                "labelEn" : "Washing pumps" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

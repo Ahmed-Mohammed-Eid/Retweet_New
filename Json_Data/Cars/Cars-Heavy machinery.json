@@ -1,0 +1,50 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "آليات بناء" ,
+                "labelEn" : "construction equipments" 
+            },
+            {
+                "labelAr" : "آليات زراعية" ,
+                "labelEn" : "agriculture equipments" 
+            },
+            {
+                "labelAr" : "رافعات" ,
+                "labelEn" : "lift equipment" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفرع" ,
+        "labelEn" : "Branch" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "سنة الصنع",
+        "labelEn" : "year" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد",
+                "labelEn" : "new" 
+            },
+            {
+                "labelAr" : "مستعمل",
+                "labelEn" : "used" 
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "كلاب" ,
+                "labelEn" : "dogs" 
+            },
+            {
+                "labelAr" : "قطط" ,
+                "labelEn" : "cats" 
+            },
+            {
+                "labelAr" : "أسماك" ,
+                "labelEn" : "fish" 
+            },
+            {
+                "labelAr" : "سلاحف" ,
+                "labelEn" : "turtles" 
+            },
+            {
+                "labelAr" : "طيور ودواجن" ,
+                "labelEn" : "birds & poultry" 
+            },
+            {
+                "labelAr" : "مواشي" ,
+                "labelEn" : "cattles" 
+            },
+            {
+                "labelAr" : "خيل" ,
+                "labelEn" : "horses" 
+            },
+            {
+                "labelAr" : "إبل" ,
+                "labelEn" : "camels" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes" 
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no" 
+            }
+        ]
+    }
+]

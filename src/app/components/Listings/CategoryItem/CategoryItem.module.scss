@@ -1,0 +1,39 @@
+.CategoryItem {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px 5px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    height: 90px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    transition: all 0.15s ease;
+
+    &:active {
+        transform: scale(0.99);
+    }
+
+    .CategoryImage {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        margin-right: 20px;
+        object-position: center;
+        object-fit: contain;
+    }
+
+    p.CategoryText {
+        font-size: 1.2rem;
+        color: #666;
+    }
+
+    p + img {
+        width: 20px;
+        height: 20px;
+        margin-left: auto;
+        margin-right: 20px;
+    }
+}

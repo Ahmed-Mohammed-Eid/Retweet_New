@@ -1,0 +1,45 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "افران وغاز" ,
+                "labelEn" : "ovens" 
+            },
+            {
+                "labelAr" : "الانظمة الشمسية" ,
+                "labelEn" : "solar systems" 
+            },
+            {
+                "labelAr" : "انظمة حماية ومراقبة" ,
+                "labelEn" : "security & surveillance" 
+            },
+            {
+                "labelAr" : "تكييف وتبريد" ,
+                "labelEn" : "air conditioning" 
+            },
+            {
+                "labelAr" : "ثلاجات وفريزرات" ,
+                "labelEn" : "refrigerators - freezers" 
+            },
+            {
+                "labelAr" : "شاشات ورسيفرات" ,
+                "labelEn" : "screens - receivers" 
+            },
+            {
+                "labelAr" : "غسالات ونشافات" ,
+                "labelEn" : "washing machines - dryers" 
+            },
+            {
+                "labelAr" : "مصاعد وابواب كهربائية" ,
+                "labelEn" : "elevators - electrical doors" 
+            },
+            {
+                "labelAr" : "أجهزة منزلية صغيرة" ,
+                "labelEn" : "small home appliances" 
+            }
+        ]
+    }
+]

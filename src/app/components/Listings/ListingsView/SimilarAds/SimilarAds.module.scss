@@ -1,0 +1,28 @@
+.similarAds{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    width: 100%;
+    background-color: rgba(#00ACEE, 0.03);
+    border-radius: 10px;
+    margin-bottom: 50px;
+    border: 1px solid #00ACEE;
+
+    h2{
+        font-size: 1.5rem;
+        font-weight: 600;
+        text-transform: capitalize;
+        // BORDER BOTTOM
+        border-bottom: 1px solid #00ACEE;
+        padding-bottom: 5px;
+        margin-bottom: 30px;
+    }
+
+    .similarAdsContainer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 20px;
+    }
+
+}

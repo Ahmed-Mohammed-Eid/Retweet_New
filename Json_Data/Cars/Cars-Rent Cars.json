@@ -1,0 +1,556 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "Brand" ,
+        "Values" : 
+        [
+        {
+            "labelAr" : "أبارث" ,
+            "labelEn" : "abarath" 
+        },
+        {
+            "labelAr" : "أوبل" ,
+            "labelEn" : "opel" 
+        },
+        {
+            "labelAr" : "أودي" ,
+            "labelEn" : "audi" 
+        },
+        {
+            "labelAr" : "إنفينيتي" ,
+            "labelEn" : "infiniti" 
+        },
+        {
+            "labelAr" : "استون مارتن" ,
+            "labelEn" : "aston martin" 
+        },
+        {
+            "labelAr" : "اكيورا" ,
+            "labelEn" : "acura" 
+        },
+        {
+            "labelAr" : "الفا روميو" ,
+            "labelEn" : "alfa romeo" 
+        },
+        {
+            "labelAr" : "ام جي" ,
+            "labelEn" : "mg" 
+        },
+        {
+            "labelAr" : "ايران خودرو" ,
+            "labelEn" : "iran khodro" 
+        },
+        {
+            "labelAr" : "ايسوزو" ,
+            "labelEn" : "isuzu" 
+        },
+        {
+            "labelAr" : "اينوس" ,
+            "labelEn" : "ineos" 
+        },
+        {
+            "labelAr" : "باجاني" ,
+            "labelEn" : "pagani" 
+        },
+        {
+            "labelAr" : "بايك" ,
+            "labelEn" : "baic" 
+        },
+        {
+            "labelAr" : "بروتون" ,
+            "labelEn" : "proton" 
+        },
+        {
+            "labelAr" : "بستيون" ,
+            "labelEn" : "bestune" 
+        },
+        {
+            "labelAr" : "بنتلي" ,
+            "labelEn" : "bentley" 
+        },
+        {
+            "labelAr" : "بورجوارد" ,
+            "labelEn" : "borgward" 
+        },
+        {
+            "labelAr" : "بورش" ,
+            "labelEn" : "porsche" 
+        },
+        {
+            "labelAr" : "بولستار" ,
+            "labelEn" : "polestar" 
+        },
+        {
+            "labelAr" : "بونتياك" ,
+            "labelEn" : "pontiac" 
+        },
+        {
+            "labelAr" : "بويك" ,
+            "labelEn" : "buick" 
+        },
+        {
+            "labelAr" : "بي ام دبليو" ,
+            "labelEn" : "bmw" 
+        },
+        {
+            "labelAr" : "بي واي دي" ,
+            "labelEn" : "byd" 
+        },
+        {
+            "labelAr" : "بيجو" ,
+            "labelEn" : "peugeot" 
+        },
+        {
+            "labelAr" : "تاتا" ,
+            "labelEn" : "tata" 
+        },
+        {
+            "labelAr" : "تانك" ,
+            "labelEn" : "tank" 
+        },
+        {
+            "labelAr" : "تويوتا" ,
+            "labelEn" : "toyota" 
+        },
+        {
+            "labelAr" : "تيسلا" ,
+            "labelEn" : "tesla" 
+        },
+        {
+            "labelAr" : "جاك" ,
+            "labelEn" : "jac" 
+        },
+        {
+            "labelAr" : "جاكوار" ,
+            "labelEn" : "jaguar" 
+        },
+        {
+            "labelAr" : "جاي ام اي في" ,
+            "labelEn" : "jmev" 
+        },
+        {
+            "labelAr" : "جاي ام سي" ,
+            "labelEn" : "jmc" 
+        },
+        {
+            "labelAr" : "جريت وول" ,
+            "labelEn" : "great wall" 
+        },
+        {
+            "labelAr" : "جي أيه سي" ,
+            "labelEn" : "jac" 
+        },
+        {
+            "labelAr" : "جي إم سي" ,
+            "labelEn" : "gmc" 
+        },
+        {
+            "labelAr" : "جيب" ,
+            "labelEn" : "jeep" 
+        },
+        {
+            "labelAr" : "جيتور" ,
+            "labelEn" : "jetour" 
+        },
+        {
+            "labelAr" : "جيلي" ,
+            "labelEn" : "geely" 
+        },
+        {
+            "labelAr" : "جينيسيس" ,
+            "labelEn" : "genesis" 
+        },
+        {
+            "labelAr" : "دايهاتسو" ,
+            "labelEn" : "daihatsu" 
+        },
+        {
+            "labelAr" : "دايو" ,
+            "labelEn" : "daewoo" 
+        },
+        {
+            "labelAr" : "دودج" ,
+            "labelEn" : "dodge" 
+        },
+        {
+            "labelAr" : "دونج فينج" ,
+            "labelEn" : "dongfeng" 
+        },
+        {
+            "labelAr" : "دي اف ام" ,
+            "labelEn" : "dfm" 
+        },
+        {
+            "labelAr" : "رولز رویس" ,
+            "labelEn" : "rolls royce" 
+        },
+        {
+            "labelAr" : "رينو" ,
+            "labelEn" : "renault" 
+        },
+        {
+            "labelAr" : "زد إكس اوتو" ,
+            "labelEn" : "zx auto" 
+        },
+        {
+            "labelAr" : "زوتي" ,
+            "labelEn" : "zotye" 
+        },
+        {
+            "labelAr" : "ساب" ,
+            "labelEn" : "saab" 
+        },
+        {
+            "labelAr" : "ساتورن" ,
+            "labelEn" : "saturn" 
+        },
+        {
+            "labelAr" : "سامسونج" ,
+            "labelEn" : "samsung" 
+        },
+        {
+            "labelAr" : "سانغ يونغ" ,
+            "labelEn" : "ssangyong" 
+        },
+        {
+            "labelAr" : "ساوايست" ,
+            "labelEn" : "soueast" 
+        },
+        {
+            "labelAr" : "سايبا" ,
+            "labelEn" : "saipa" 
+        },
+        {
+            "labelAr" : "سبايكر" ,
+            "labelEn" : "spyker" 
+        },
+        {
+            "labelAr" : "ستيروين" ,
+            "labelEn" : "citroen" 
+        },
+        {
+            "labelAr" : "سكاي ويل" ,
+            "labelEn" : "skywell" 
+        },
+        {
+            "labelAr" : "سكودا" ,
+            "labelEn" : "skoda" 
+        },
+        {
+            "labelAr" : "سمارت" ,
+            "labelEn" : "smart" 
+        },
+        {
+            "labelAr" : "سوبارو" ,
+            "labelEn" : "subaru" 
+        },
+        {
+            "labelAr" : "سوزوكي" ,
+            "labelEn" : "suzuki" 
+        },
+        {
+            "labelAr" : "سيات" ,
+            "labelEn" : "seat" 
+        },
+        {
+            "labelAr" : "سيون" ,
+            "labelEn" : "scion" 
+        },
+        {
+            "labelAr" : "شانجان" ,
+            "labelEn" : "changan" 
+        },
+        {
+            "labelAr" : "شيري" ,
+            "labelEn" : "chery" 
+        },
+        {
+            "labelAr" : "شيفروليه" ,
+            "labelEn" : "chevrolet" 
+        },
+        {
+            "labelAr" : "فاو" ,
+            "labelEn" : "faw" 
+        },
+        {
+            "labelAr" : "أوفوتونبل" ,
+            "labelEn" : "foton" 
+        },
+        {
+            "labelAr" : "فورد" ,
+            "labelEn" : "ford" 
+        },
+        {
+            "labelAr" : "فولفو" ,
+            "labelEn" : "volvo" 
+        },
+        {
+            "labelAr" : "فولكسفاغن" ,
+            "labelEn" : "volkswagen" 
+        },
+        {
+            "labelAr" : "في جي في" ,
+            "labelEn" : "vgv" 
+        },
+        {
+            "labelAr" : "فيات" ,
+            "labelEn" : "fiat" 
+        },
+        {
+            "labelAr" : "فيراري" ,
+            "labelEn" : "ferrari" 
+        },
+        {
+            "labelAr" : "كاديلاك" ,
+            "labelEn" : "cadillac" 
+        },
+        {
+            "labelAr" : "كرايسلر" ,
+            "labelEn" : "chrysler" 
+        },
+        {
+            "labelAr" : "كيا" ,
+            "labelEn" : "kia" 
+        },
+        {
+            "labelAr" : "لادا" ,
+            "labelEn" : "lada" 
+        },
+        {
+            "labelAr" : "لامبورغيني" ,
+            "labelEn" : "lamborghini" 
+        },
+        {
+            "labelAr" : "لاند روفر" ,
+            "labelEn" : "land rover" 
+        },
+        {
+            "labelAr" : "لانسيا" ,
+            "labelEn" : "lancia" 
+        },
+        {
+            "labelAr" : "لكزس" ,
+            "labelEn" : "lexus" 
+        },
+        {
+            "labelAr" : "ليب موتور" ,
+            "labelEn" : "leapmotor" 
+        },
+        {
+            "labelAr" : "ليفان" ,
+            "labelEn" : "lifan" 
+        },
+        {
+            "labelAr" : "لينكولن" ,
+            "labelEn" : "lincoln" 
+        },
+        {
+            "labelAr" : "ماروتي سوزوكي" ,
+            "labelEn" : "maruti suzuki" 
+        },
+        {
+            "labelAr" : "مازدا" ,
+            "labelEn" : "mazda" 
+        },
+        {
+            "labelAr" : "مازيراتي" ,
+            "labelEn" : "maserati" 
+        },
+        {
+            "labelAr" : "ماكسيوس" ,
+            "labelEn" : "maxus" 
+        },
+        {
+            "labelAr" : "ماهيندرا" ,
+            "labelEn" : "mahindra" 
+        },
+        {
+            "labelAr" : "مرسيدس بنز" ,
+            "labelEn" : "mercedes benz" 
+        },
+        {
+            "labelAr" : "مكلارين" ,
+            "labelEn" : "mclaren" 
+        },
+        {
+            "labelAr" : "ميتسوبيشي" ,
+            "labelEn" : "mitsubishi" 
+        },
+        {
+            "labelAr" : "ميركوري" ,
+            "labelEn" : "mercury" 
+        },
+        {
+            "labelAr" : "ميني" ,
+            "labelEn" : "mini" 
+        },
+        {
+            "labelAr" : "نيتا" ,
+            "labelEn" : "neta" 
+        },
+        {
+            "labelAr" : "نيسان" ,
+            "labelEn" : "nissan" 
+        },
+        {
+            "labelAr" : "هافال" ,
+            "labelEn" : "haval" 
+        },
+        {
+            "labelAr" : "هامر" ,
+            "labelEn" : "hummer" 
+        },
+        {
+            "labelAr" : "هاوتاي" ,
+            "labelEn" : "hawtai" 
+        },
+        {
+            "labelAr" : "هونج تشي" ,
+            "labelEn" : "hongqi" 
+        },
+        {
+            "labelAr" : "هوندا" ,
+            "labelEn" : "honda" 
+        },
+        {
+            "labelAr" : "هونغهاي" ,
+            "labelEn" : "hunaghai" 
+        },
+        {
+            "labelAr" : "هيونداي" ,
+            "labelEn" : "hyundai" 
+        },
+        {
+            "labelAr" : "وولينغ" ,
+            "labelEn" : "wuling" 
+        },
+        {
+            "labelAr" : "يودو" ,
+            "labelEn" : "yudo" 
+        }
+        ]
+    },
+    {
+        "labelAr" : "الموديل" ,
+        "labelEn" : "model" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "سنة الصنع" ,
+        "labelEn" : "year" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "نوع ناقل الحركة" ,
+        "labelEn" : "Tramsmission" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اوتوماتيك" ,
+                "labelEn" : "automatic" 
+            },
+            {
+                "labelAr" : "يدوي/عادي" ,
+                "labelEn" : "manual" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "نوع الوقود" ,
+        "labelEn" : "Fuel type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "بنزين" ,
+                "labelEn" : "gasoline" 
+            },
+            {
+                "labelAr" : "ديزل" ,
+                "labelEn" : "diesel" 
+            },
+            {
+                "labelAr" : "هايبرد" ,
+                "labelEn" : "hybrid" 
+            },
+            {
+                "labelAr" : "مايلد هايبرد" ,
+                "labelEn" : "mild hybrid" 
+            },
+            {
+                "labelAr" : "كهربائي" ,
+                "labelEn" : "electric" 
+            },
+            {
+                "labelAr" : "هايبرد - Plug-in" ,
+                "labelEn" : "plug-in - hybrid" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "نوع الهيكل" ,
+        "labelEn" : "Structure type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "صالون/سيدان" ,
+                "labelEn" : "sedan" 
+            },
+            {
+                "labelAr" : "كوبيه" ,
+                "labelEn" : "coupe" 
+            },
+            {
+                "labelAr" : "كشف" ,
+                "labelEn" : "open" 
+            },
+            {
+                "labelAr" : "اس يو في" ,
+                "labelEn" : "suv" 
+            },
+            {
+                "labelAr" : "هاتشباك" ,
+                "labelEn" : "Hatchback" 
+            },
+            {
+                "labelAr" : "باص/فان" ,
+                "labelEn" : "bus/van" 
+            },
+            {
+                "labelAr" : "بيك اب" ,
+                "labelEn" : "pick up" 
+            },
+            {
+                "labelAr" : "شاحنه" ,
+                "labelEn" : "van" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "مدة الإيجار" ,
+        "labelEn" : "Rental term" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "يومي" ,
+                "labelEn" : "dialy" 
+            },
+            {
+                "labelAr" : "اسبوعي" ,
+                "labelEn" : "weekly" 
+            },
+            {
+                "labelAr" : "شهري" ,
+                "labelEn" : "monthly" 
+            },
+            {
+                "labelAr" : "سنوي" ,
+                "labelEn" : "yearly" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "اللون" ,
+        "labelEn" : "color" ,
+        "Values" : ""
+    }
+]

@@ -1,0 +1,60 @@
+label.RadioContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #EBF5F8;
+    width: fit-content;
+
+    input[type="checkbox"] {
+        position: relative;
+        display: none;
+    }
+
+    .RadioCircle {
+        position: relative;
+        height: 25px;
+        width: 25px;
+        border-radius: 50%;
+    }
+
+    .RadioOutsideCircle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 24px;
+        width: 24px;
+        background-color: #eee;
+        border: 1px solid #2196F3;
+        //border-radius: 50%;
+        z-index: 10;
+    }
+
+    .RadioInsideCircle {
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        height: 80%;
+        width: 80%;
+        background-color: #2196F3;
+        //border-radius: 50%;
+        visibility: hidden;
+        opacity: 0;
+        z-index: 15;
+        transform: scale(0);
+        transition: all .15s ease-in-out;
+    }
+
+    input[type="checkbox"]:checked ~ .RadioCircle .RadioInsideCircle {
+        visibility: visible;
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    .RadioText {
+        font-size: 16px;
+        text-transform: capitalize;
+        user-select: none;
+    }
+}

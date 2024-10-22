@@ -1,0 +1,78 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "انتيكات - تحف" ,
+                "labelEn" : "Antiques" 
+            },
+            {
+                "labelAr" : "ساعات حائط" ,
+                "labelEn" : "Clocks" 
+            },
+            {
+                "labelAr" : "ورق جدران" ,
+                "labelEn" : "Wall paper" 
+            },
+            {
+                "labelAr" : "لوحات فنية - براويز" ,
+                "labelEn" : "Artistic paintings - frames" 
+            },
+            {
+                "labelAr" : "زجاج - مرايا" ,
+                "labelEn" : "Glass - mirrors" 
+            },
+            {
+                "labelAr" : "مزهرية - فازا" ,
+                "labelEn" : "Vase" 
+            },
+            {
+                "labelAr" : "رفوف" ,
+                "labelEn" : "shelves" 
+            },
+            {
+                "labelAr" : "طاولات - كراسي - طربيزات" ,
+                "labelEn" : "Tables - chairs" 
+            },
+            {
+                "labelAr" : "نباتات اصطناعية" ,
+                "labelEn" : "Artificial plants" 
+            },
+            {
+                "labelAr" : "اخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : [
+            {
+                "labelAr" : "نعم" ,
+                "labelEn" : "yes"
+            },
+            {
+                "labelAr" : "لا" ,
+                "labelEn" : "no"
+            }
+        ]
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل" ,
+                "labelEn" : "used"
+            }
+        ]
+    }
+]

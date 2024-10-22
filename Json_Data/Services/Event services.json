@@ -1,0 +1,41 @@
+[
+    {
+        "labelAr" : "نوع الخدمة" ,
+        "labelEn" : "service type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "قاعات" ,
+                "labelEn" : "halls" 
+            },
+            {
+                "labelAr" : "منظّم حفلات" ,
+                "labelEn" : "events planner" 
+            },
+            {
+                "labelAr" : "تصوير فوتوغرافي" ,
+                "labelEn" : "photography" 
+            },
+            {
+                "labelAr" : "تصوير فيديو" ,
+                "labelEn" : "videography" 
+            },
+            {
+                "labelAr" : "تنسيق ورود" ,
+                "labelEn" : "florist" 
+            },
+            {
+                "labelAr" : "زفات" ,
+                "labelEn" : "zaffeh" 
+            },
+            {
+                "labelAr" : "خيم ومستلزمات مناسبات" ,
+                "labelEn" : "tents & events supplies" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    }
+]

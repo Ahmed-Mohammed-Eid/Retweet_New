@@ -1,0 +1,42 @@
+.RadioInput{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: row;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+    input[type="radio"]{
+        display: none;
+    }
+
+    .RadioInput__icon{
+        width: 20px;
+        height: 20px;
+        background-color: #FFFFFF;
+        border: 1px solid #C9CFD2;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+        &::before{
+            content: "";
+            width: 10px;
+            height: 10px;
+            background-color: #ffffff;
+            border-radius: 50%;
+            display: none;
+        }
+    }
+
+    input[type="radio"]:checked + .RadioInput__icon{
+        background-color: #FA8232;
+        border: 1px solid #FA8232;
+
+        &::before{
+            display: block;
+        }
+    }
+}

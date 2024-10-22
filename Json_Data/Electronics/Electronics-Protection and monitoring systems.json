@@ -1,0 +1,34 @@
+[
+    {
+        "labelAr" : "النوع" ,
+        "labelEn" : "type" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "أبواب كهربائية" ,
+                "labelEn" : "Electric doors" 
+            },
+            {
+                "labelAr" : "أنظمة حماية" ,
+                "labelEn" : "Protection systems" 
+            },
+            {
+                "labelAr" : "جهاز البصمة" ,
+                "labelEn" : "Fingerprint device" 
+            },
+            {
+                "labelAr" : "كاميرات مراقبة" ,
+                "labelEn" : "security cameras" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "other" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    }
+]

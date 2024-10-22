@@ -1,0 +1,24 @@
+.FilterListingPart{
+    background-color: rgba(#00ACEE, 0.1);
+}
+
+.border__bottom{
+    display: block;
+    height: 1px;
+    width: 100%;
+    border-bottom: 1px solid #E4E7E9;
+}
+
+.Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00ACEE;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}

@@ -1,0 +1,210 @@
+[
+    {
+        "labelAr" : "الماركة" ,
+        "labelEn" : "brand" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "اتش بي" ,
+                "labelEn" : "HP" 
+            },
+            {
+                "labelAr" : "XP-PEN" ,
+                "labelEn" : "XP-PEN" 
+            },
+            {
+                "labelAr" : "آسوس" ,
+                "labelEn" : "asus" 
+            },
+            {
+                "labelAr" : "أبل" ,
+                "labelEn" : "apple" 
+            },
+            {
+                "labelAr" : "أركوس" ,
+                "labelEn" : "archos" 
+            },
+            {
+                "labelAr" : "ألكاتيل" ,
+                "labelEn" : "alcatel" 
+            },
+            {
+                "labelAr" : "أمازون" ,
+                "labelEn" : "amazon" 
+            },
+            {
+                "labelAr" : "إي نيت" ,
+                "labelEn" : "enet" 
+            },
+            {
+                "labelAr" : "إيسر" ,
+                "labelEn" : "acer" 
+            },
+            {
+                "labelAr" : "بلاكبيري" ,
+                "labelEn" : "balckberry" 
+            },
+            {
+                "labelAr" : "تاج تيك" ,
+                "labelEn" : "tagtech" 
+            },
+            {
+                "labelAr" : "تكلاست" ,
+                "labelEn" : "teclasat" 
+            },
+            {
+                "labelAr" : "تكنو" ,
+                "labelEn" : "tecno" 
+            },
+            {
+                "labelAr" : "توشيبا" ,
+                "labelEn" : "toshiba" 
+            },
+            {
+                "labelAr" : "جوجل" ,
+                "labelEn" : "google" 
+            },
+            {
+                "labelAr" : "جي تاب" ,
+                "labelEn" : "g-tab" 
+            },
+            {
+                "labelAr" : "ديل" ,
+                "labelEn" : "dell" 
+            },
+            {
+                "labelAr" : "سامسونج" ,
+                "labelEn" : "samsung" 
+            },
+            {
+                "labelAr" : "سوني" ,
+                "labelEn" : "sony" 
+            },
+            {
+                "labelAr" : "شاومي" ,
+                "labelEn" : "xiaomi" 
+            },
+            {
+                "labelAr" : "فيكوشا" ,
+                "labelEn" : "vikusha" 
+            },
+            {
+                "labelAr" : "لينوفو" ,
+                "labelEn" : "lenovo" 
+            },
+            {
+                "labelAr" : "مايكروسوفت" ,
+                "labelEn" : "microsoft" 
+            },
+            {
+                "labelAr" : "هواوي" ,
+                "labelEn" : "huawei" 
+            },
+            {
+                "labelAr" : "هونور" ,
+                "labelEn" : "honor" 
+            },
+            {
+                "labelAr" : "هيون" ,
+                "labelEn" : "huion" 
+            },
+            {
+                "labelAr" : "واكوم" ,
+                "labelEn" : "wacom" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "الفئة" ,
+        "labelEn" : "Category" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "سعة التخزين" ,
+        "labelEn" : "storage capacity" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "2 تيرابايت" ,
+                "labelEn" : "2 TB" 
+            },
+            {
+                "labelAr" : "1 تيرابايت" ,
+                "labelEn" : "1 TB" 
+            },
+            {
+                "labelAr" : "512 جيجابايت" ,
+                "labelEn" : "512 GB" 
+            },
+            {
+                "labelAr" : "256 جيجابايت" ,
+                "labelEn" : "256 GB" 
+            },
+            {
+                "labelAr" : "128 جيجابايت" ,
+                "labelEn" : "128 GB" 
+            },
+            {
+                "labelAr" : "64 جيجابايت" ,
+                "labelEn" : "64 GB" 
+            },
+            {
+                "labelAr" : "32 جيجابايت" ,
+                "labelEn" : "32 GB" 
+            },
+            {
+                "labelAr" : "16 جيجابايت" ,
+                "labelEn" : "16 GB" 
+            },
+            {
+                "labelAr" : "8 جيجابايت" ,
+                "labelEn" : "8 GB" 
+            },
+            {
+                "labelAr" : "4 جيجابايت" ,
+                "labelEn" : "4 GB" 
+            },
+            {
+                "labelAr" : "أخرى" ,
+                "labelEn" : "others" 
+            }
+        ]
+    },
+    {
+        "labelAr" : "حجم الشاشة" ,
+        "labelEn" : "Screen Size" ,
+        "Values" : ""
+    },
+    {
+        "labelAr" : "الحالة" ,
+        "labelEn" : "condition" ,
+        "Values" : 
+        [
+            {
+                "labelAr" : "جديد" ,
+                "labelEn" : "new"
+            },
+            {
+                "labelAr" : "مستعمل - حالة ممتازة" ,
+                "labelEn" : "Used - excellent condition"
+            },
+            {
+                "labelAr" : "مستعمل - حالة جيدة" ,
+                "labelEn" : "Used - good condition"
+            },
+            {
+                "labelAr" : "مستعمل - حالة سيئة" ,
+                "labelEn" : "Used - poor condition"
+            }
+        ]
+    },
+    {
+        "labelAr" : "هل لديك خدمة توصيل؟" ,
+        "labelEn" : "Do you have delivery service?" ,
+        "Values" : ""
+    }
+]
