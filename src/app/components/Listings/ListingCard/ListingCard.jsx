@@ -6,6 +6,7 @@ import { formatePrice } from "../../../../../helpers/formatePrice";
 import classes from "./ListingCard.module.scss";
 import Link from "next/link";
 import axios from "axios";
+import { useRouter } from "next/navigation";
 
 function ListingCard({ product, locale, authenticated, removeOnly }) {
 	// STATES
@@ -74,7 +75,11 @@ function ListingCard({ product, locale, authenticated, removeOnly }) {
 		<article className={classes.Card}>
 			<div className="flex gap-5 max-md:flex-col max-md:gap-0">
 				<div className={classes.Image}>
-					<Link locale={locale} href={`/${locale}/listings/${product?._id}`} passHref>
+					<Link
+						locale={locale}
+						href={`/${locale}/listings/${product?._id}`}
+						passHref
+					>
 						<Image
 							src={
 								product?.listingImages[0] ||
@@ -185,7 +190,10 @@ function ListingCard({ product, locale, authenticated, removeOnly }) {
 						<div className={classes.Footer}>
 							<div className={classes.Buttons}>
 								<ContactButton phone={product?.contactPhone} />
-								<ChatButton id={product?._id} />
+								<ChatButton
+									id={product?.userId}
+									locale={locale}
+								/>
 							</div>
 							<div className={classes.Price}>
 								{product?.listingCurrency}{" "}
@@ -218,9 +226,16 @@ function ContactButton({ phone }) {
 	);
 }
 
-function ChatButton({ id }) {
+function ChatButton({ id, locale }) {
+	const router = useRouter();
+
 	return (
-		<button className={`${classes.Button__Chat}`}>
+		<button
+			className={`${classes.Button__Chat}`}
+			onClick={() => {
+				router.push(`/${locale}/profile/messages?creatorId=${id}`);
+			}}
+		>
 			<Image
 				src="/assets/listings/fluent_chat-12-regular.svg"
 				alt="Chat icon"
